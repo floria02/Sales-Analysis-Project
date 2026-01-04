@@ -5,4 +5,4 @@
 </p>
 <hr style="border: 1px solid #ddd;">
 
-**Tools used:** Excel,MySQL,PowerBI
+**Tools used:** Excel | MySQL | PowerBI
