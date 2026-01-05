@@ -1,0 +1,1001 @@
+OrderNumber,QuantityOrdered,ListPrice,PricePerUnit,Sales,OrderDate,Status,QuarterOfYear,Month,Year,ProductLine,Company,CITY,COUNTRY,DEALSIZE
+10107,30,95,95.7,2871,24/02/03,Shipped,1,FEBRUARY,2003,Motorcycles,Land of Toys Inc.,NYC,USA,Small
+10121,34,95,81.35,2765.9,7/5/2003,Shipped,2,MAY,2003,Motorcycles,Reims Collectables,Reims,France,Small
+10134,41,95,94.74,3884.34,1/7/2003,Shipped,3,JULY,2003,Motorcycles,Lyon Souveniers,Paris,France,Medium
+10145,45,95,83.26,3746.7,25/08/03,Shipped,3,AUGUST,2003,Motorcycles,Toys4GrownUps.com,Pasadena,USA,Medium
+10159,49,95,100,5205.27,10/10/2003,Shipped,4,OCTOBER,2003,Motorcycles,Corporate Gift Ideas Co.,San Francisco,USA,Medium
+10168,36,95,96.66,3479.76,28/10/03,Shipped,4,OCTOBER,2003,Motorcycles,Technics Stores Inc.,Burlingame,USA,Medium
+10180,29,95,86.13,2497.77,11/11/2003,Shipped,4,NOVEMBER,2003,Motorcycles,Daedalus Designs Imports,Lille,France,Small
+10188,48,95,100,5512.32,18/11/03,Shipped,4,NOVEMBER,2003,Motorcycles,Herkku Gifts,Bergen,Norway,Medium
+10201,22,95,98.57,2168.54,1/12/2003,Shipped,4,DECEMBER,2003,Motorcycles,Mini Wheels Co.,San Francisco,USA,Small
+10211,41,95,100,4708.44,15/01/04,Shipped,1,JANUARY,2004,Motorcycles,Auto Canal Petit,Paris,France,Medium
+10223,37,95,100,3965.66,20/02/04,Shipped,1,FEBRUARY,2004,Motorcycles,"Australian Collectors, Co.",Melbourne,Australia,Medium
+10237,23,95,100,2333.12,5/4/2004,Shipped,2,APRIL,2004,Motorcycles,Vitachrome Inc.,NYC,USA,Small
+10251,28,95,100,3188.64,18/05/04,Shipped,2,MAY,2004,Motorcycles,Tekni Collectables Inc.,Newark,USA,Medium
+10263,34,95,100,3676.76,28/06/04,Shipped,2,JUNE,2004,Motorcycles,Gift Depot Inc.,Bridgewater,USA,Medium
+10275,45,95,92.83,4177.35,23/07/04,Shipped,3,JULY,2004,Motorcycles,La Rochelle Gifts,Nantes,France,Medium
+10285,36,95,100,4099.68,27/08/04,Shipped,3,AUGUST,2004,Motorcycles,Marta's Replicas Co.,Cambridge,USA,Medium
+10299,23,95,100,2597.39,30/09/04,Shipped,3,SETPEMBER,2004,Motorcycles,"Toys of Finland, Co.",Helsinki,Finland,Small
+10309,41,95,100,4394.38,15/10/04,Shipped,4,OCTOBER,2004,Motorcycles,Baane Mini Imports,Stavern,Norway,Medium
+10318,46,95,94.74,4358.04,2/11/2004,Shipped,4,NOVEMBER,2004,Motorcycles,Diecast Classics Inc.,Allentown,USA,Medium
+10329,42,95,100,4396.14,15/11/04,Shipped,4,NOVEMBER,2004,Motorcycles,Land of Toys Inc.,NYC,USA,Medium
+10341,41,95,100,7737.93,24/11/04,Shipped,4,NOVEMBER,2004,Motorcycles,Salzburg Collectables,Salzburg,Austria,Large
+10361,20,95,72.55,1451,17/12/04,Shipped,4,DECEMBER,2004,Motorcycles,Souveniers And Things Co.,Chatswood,Australia,Small
+10375,21,95,34.91,733.11,3/2/2005,Shipped,1,FEBRUARY,2005,Motorcycles,La Rochelle Gifts,Nantes,France,Small
+10388,42,95,76.36,3207.12,3/3/2005,Shipped,1,MARCH,2005,Motorcycles,FunGiftIdeas.com,New Bedford,USA,Medium
+10403,24,95,100,2434.56,8/4/2005,Shipped,2,APRIL,2005,Motorcycles,"UK Collectables, Ltd.",Liverpool,UK,Small
+10417,66,95,100,7516.08,13/05/05,Disputed,2,MAY,2005,Motorcycles,Euro Shopping Channel,Madrid,Spain,Large
+10103,26,214,100,5404.62,29/01/03,Shipped,1,JANUARY,2003,Classic Cars,Baane Mini Imports,Stavern,Norway,Medium
+10112,29,214,100,7209.11,24/03/03,Shipped,1,MARCH,2003,Classic Cars,"Volvo Model Replicas, Co",Lule,Sweden,Large
+10126,38,214,100,7329.06,28/05/03,Shipped,2,MAY,2003,Classic Cars,"Corrida Auto Replicas, Ltd",Madrid,Spain,Large
+10140,37,214,100,7374.1,24/07/03,Shipped,3,JULY,2003,Classic Cars,Technics Stores Inc.,Burlingame,USA,Large
+10150,45,214,100,10993.5,19/09/03,Shipped,3,SETPEMBER,2003,Classic Cars,"Dragon Souveniers, Ltd.",Singapore,Singapore,Large
+10163,21,214,100,4860.24,20/10/03,Shipped,4,OCTOBER,2003,Classic Cars,Classic Legends Inc.,NYC,USA,Medium
+10174,34,214,100,8014.82,6/11/2003,Shipped,4,NOVEMBER,2003,Classic Cars,"Australian Gift Network, Co",South Brisbane,Australia,Large
+10183,23,214,100,5372.57,13/11/03,Shipped,4,NOVEMBER,2003,Classic Cars,"Classic Gift Ideas, Inc",Philadelphia,USA,Medium
+10194,42,214,100,7290.36,25/11/03,Shipped,4,NOVEMBER,2003,Classic Cars,"Saveley & Henriot, Co.",Lyon,France,Large
+10206,47,214,100,9064.89,5/12/2003,Shipped,4,DECEMBER,2003,Classic Cars,Canadian Gift Exchange Network,Vancouver,Canada,Large
+10215,35,214,100,6075.3,29/01/04,Shipped,1,JANUARY,2004,Classic Cars,West Coast Collectables Co.,Burbank,USA,Medium
+10228,29,214,100,6463.23,10/3/2004,Shipped,1,MARCH,2004,Classic Cars,Cambridge Collectables Co.,Cambridge,USA,Medium
+10245,34,214,100,6120.34,4/5/2004,Shipped,2,MAY,2004,Classic Cars,Super Scale Inc.,New Haven,USA,Medium
+10258,32,214,100,7680.64,15/06/04,Shipped,2,JUNE,2004,Classic Cars,"Tokyo Collectables, Ltd",Minato-ku,Japan,Large
+10270,21,214,100,4905.39,19/07/04,Shipped,3,JULY,2004,Classic Cars,Souveniers And Things Co.,Chatswood,Australia,Medium
+10280,34,214,100,8014.82,17/08/04,Shipped,3,AUGUST,2004,Classic Cars,Amica Models & Co.,Torino,Italy,Large
+10291,37,214,100,7136.19,8/9/2004,Shipped,3,SETPEMBER,2004,Classic Cars,Scandinavian Gift Ideas,Boras,Sweden,Large
+10304,47,214,100,10172.7,11/10/2004,Shipped,4,OCTOBER,2004,Classic Cars,Auto Assoc. & Cie.,Versailles,France,Large
+10312,48,214,100,11623.7,21/10/04,Shipped,4,OCTOBER,2004,Classic Cars,Mini Gifts Distributors Ltd.,San Rafael,USA,Large
+10322,40,214,100,6000.4,4/11/2004,Shipped,4,NOVEMBER,2004,Classic Cars,Online Diecast Creations Co.,Nashua,USA,Medium
+10333,26,214,100,3003,18/11/04,Shipped,4,NOVEMBER,2004,Classic Cars,Mini Wheels Co.,San Francisco,USA,Medium
+10347,30,214,100,3944.7,29/11/04,Shipped,4,NOVEMBER,2004,Classic Cars,"Australian Collectors, Co.",Melbourne,Australia,Medium
+10357,32,214,100,5691.84,10/12/2004,Shipped,4,DECEMBER,2004,Classic Cars,Mini Gifts Distributors Ltd.,San Rafael,USA,Medium
+10369,41,214,100,4514.92,20/01/05,Shipped,1,JANUARY,2005,Classic Cars,Collectables For Less Inc.,Brickhaven,USA,Medium
+10381,36,214,100,8254.8,17/02/05,Shipped,1,FEBRUARY,2005,Classic Cars,Corporate Gift Ideas Co.,San Francisco,USA,Large
+10391,24,214,100,2416.56,9/3/2005,Shipped,1,MARCH,2005,Classic Cars,"Anna's Decorations, Ltd",North Sydney,Australia,Small
+10411,23,214,100,4140.23,1/5/2005,Shipped,2,MAY,2005,Classic Cars,Quebec Home Shopping Network,Montreal,Canada,Medium
+10424,50,214,100,12001,31/05/05,In Process,2,MAY,2005,Classic Cars,Euro Shopping Channel,Madrid,Spain,Large
+10107,39,118,99.91,3896.49,24/02/03,Shipped,1,FEBRUARY,2003,Motorcycles,Land of Toys Inc.,NYC,USA,Medium
+10120,29,118,96.34,2793.86,29/04/03,Shipped,2,APRIL,2003,Motorcycles,"Australian Collectors, Co.",Melbourne,Australia,Small
+10134,27,118,100,3307.77,1/7/2003,Shipped,3,JULY,2003,Motorcycles,Lyon Souveniers,Paris,France,Medium
+10145,37,118,100,5192.95,25/08/03,Shipped,3,AUGUST,2003,Motorcycles,Toys4GrownUps.com,Pasadena,USA,Medium
+10159,37,118,100,5016.83,10/10/2003,Shipped,4,OCTOBER,2003,Motorcycles,Corporate Gift Ideas Co.,San Francisco,USA,Medium
+10168,27,118,100,3660.93,28/10/03,Shipped,4,OCTOBER,2003,Motorcycles,Technics Stores Inc.,Burlingame,USA,Medium
+10180,42,118,100,4695.6,11/11/2003,Shipped,4,NOVEMBER,2003,Motorcycles,Daedalus Designs Imports,Lille,France,Medium
+10188,38,118,96.34,3660.92,18/11/03,Shipped,4,NOVEMBER,2003,Motorcycles,Herkku Gifts,Bergen,Norway,Medium
+10201,24,118,100,3025.92,1/12/2003,Shipped,4,DECEMBER,2003,Motorcycles,Mini Wheels Co.,San Francisco,USA,Medium
+10210,23,118,100,3009.09,12/1/2004,Shipped,1,JANUARY,2004,Motorcycles,Osaka Souveniers Co.,Osaka,Japan,Medium
+10223,47,118,100,5422.39,20/02/04,Shipped,1,FEBRUARY,2004,Motorcycles,"Australian Collectors, Co.",Melbourne,Australia,Medium
+10236,22,118,100,2852.08,3/4/2004,Shipped,2,APRIL,2004,Motorcycles,Motor Mint Distributors Inc.,Philadelphia,USA,Small
+10251,44,118,100,5756.52,18/05/04,Shipped,2,MAY,2004,Motorcycles,Tekni Collectables Inc.,Newark,USA,Medium
+10263,40,118,100,4472,28/06/04,Shipped,2,JUNE,2004,Motorcycles,Gift Depot Inc.,Bridgewater,USA,Medium
+10275,22,118,100,2904.44,23/07/04,Shipped,3,JULY,2004,Motorcycles,La Rochelle Gifts,Nantes,France,Small
+10285,47,118,100,6484.59,27/08/04,Shipped,3,AUGUST,2004,Motorcycles,Marta's Replicas Co.,Cambridge,USA,Medium
+10298,39,118,96.34,3757.26,27/09/04,Shipped,3,SETPEMBER,2004,Motorcycles,Atelier graphique,Nantes,France,Medium
+10308,34,118,100,4043.96,15/10/04,Shipped,4,OCTOBER,2004,Motorcycles,Mini Classics,White Plains,USA,Medium
+10318,45,118,100,5566.5,2/11/2004,Shipped,4,NOVEMBER,2004,Motorcycles,Diecast Classics Inc.,Allentown,USA,Medium
+10329,20,118,100,3176,15/11/04,Shipped,4,NOVEMBER,2004,Motorcycles,Land of Toys Inc.,NYC,USA,Medium
+10339,40,118,68.92,2756.8,23/11/04,Shipped,4,NOVEMBER,2004,Motorcycles,"Tokyo Collectables, Ltd",Minato-ku,Japan,Small
+10361,26,118,51.15,1329.9,17/12/04,Shipped,4,DECEMBER,2004,Motorcycles,Souveniers And Things Co.,Chatswood,Australia,Small
+10374,39,118,100,5288.01,2/2/2005,Shipped,1,FEBRUARY,2005,Motorcycles,"Australian Gift Network, Co",South Brisbane,Australia,Medium
+10388,50,118,44.51,2225.5,3/3/2005,Shipped,1,MARCH,2005,Motorcycles,FunGiftIdeas.com,New Bedford,USA,Small
+10402,45,118,100,5833.8,7/4/2005,Shipped,2,APRIL,2005,Motorcycles,Auto Canal Petit,Paris,France,Medium
+10417,45,118,100,5887.35,13/05/05,Disputed,2,MAY,2005,Motorcycles,Euro Shopping Channel,Madrid,Spain,Medium
+10107,27,193,100,6065.55,24/02/03,Shipped,1,FEBRUARY,2003,Motorcycles,Land of Toys Inc.,NYC,USA,Medium
+10120,46,193,100,9264.86,29/04/03,Shipped,2,APRIL,2003,Motorcycles,"Australian Collectors, Co.",Melbourne,Australia,Large
+10134,31,193,100,7023.98,1/7/2003,Shipped,3,JULY,2003,Motorcycles,Lyon Souveniers,Paris,France,Large
+10145,33,193,100,5176.38,25/08/03,Shipped,3,AUGUST,2003,Motorcycles,Toys4GrownUps.com,Pasadena,USA,Medium
+10159,22,193,100,4132.7,10/10/2003,Shipped,4,OCTOBER,2003,Motorcycles,Corporate Gift Ideas Co.,San Francisco,USA,Medium
+10168,20,193,100,4183,28/10/03,Shipped,4,OCTOBER,2003,Motorcycles,Technics Stores Inc.,Burlingame,USA,Medium
+10180,41,193,100,8892.9,11/11/2003,Shipped,4,NOVEMBER,2003,Motorcycles,Daedalus Designs Imports,Lille,France,Large
+10188,45,193,100,8714.7,18/11/03,Shipped,4,NOVEMBER,2003,Motorcycles,Herkku Gifts,Bergen,Norway,Large
+10201,49,193,100,8065.89,1/12/2003,Shipped,4,DECEMBER,2003,Motorcycles,Mini Wheels Co.,San Francisco,USA,Large
+10210,34,193,100,6123.4,12/1/2004,Shipped,1,JANUARY,2004,Motorcycles,Osaka Souveniers Co.,Osaka,Japan,Medium
+10223,49,193,100,9774.03,20/02/04,Shipped,1,FEBRUARY,2004,Motorcycles,"Australian Collectors, Co.",Melbourne,Australia,Large
+10237,39,193,100,7023.9,5/4/2004,Shipped,2,APRIL,2004,Motorcycles,Vitachrome Inc.,NYC,USA,Large
+10251,43,193,100,7078.23,18/05/04,Shipped,2,MAY,2004,Motorcycles,Tekni Collectables Inc.,Newark,USA,Large
+10263,41,193,100,8336.94,28/06/04,Shipped,2,JUNE,2004,Motorcycles,Gift Depot Inc.,Bridgewater,USA,Large
+10275,36,193,100,6901.92,23/07/04,Shipped,3,JULY,2004,Motorcycles,La Rochelle Gifts,Nantes,France,Medium
+10285,27,193,100,5438.07,27/08/04,Shipped,3,AUGUST,2004,Motorcycles,Marta's Replicas Co.,Cambridge,USA,Medium
+10299,29,193,100,6683.34,30/09/04,Shipped,3,SETPEMBER,2004,Motorcycles,"Toys of Finland, Co.",Helsinki,Finland,Medium
+10308,20,193,100,4570.4,15/10/04,Shipped,4,OCTOBER,2004,Motorcycles,Mini Classics,White Plains,USA,Medium
+10318,37,193,100,7667.14,2/11/2004,Shipped,4,NOVEMBER,2004,Motorcycles,Diecast Classics Inc.,Allentown,USA,Large
+10329,26,193,100,5868.2,15/11/04,Shipped,4,NOVEMBER,2004,Motorcycles,Land of Toys Inc.,NYC,USA,Medium
+10339,39,193,76.67,2990.13,23/11/04,Shipped,4,NOVEMBER,2004,Motorcycles,"Tokyo Collectables, Ltd",Minato-ku,Japan,Small
+10362,22,193,100,3664.1,5/1/2005,Shipped,1,JANUARY,2005,Motorcycles,Technics Stores Inc.,Burlingame,USA,Medium
+10374,22,193,100,3834.38,2/2/2005,Shipped,1,FEBRUARY,2005,Motorcycles,"Australian Gift Network, Co",South Brisbane,Australia,Medium
+10388,21,193,86.77,1822.17,3/3/2005,Shipped,1,MARCH,2005,Motorcycles,FunGiftIdeas.com,New Bedford,USA,Small
+10403,66,193,100,11886.6,8/4/2005,Shipped,2,APRIL,2005,Motorcycles,"UK Collectables, Ltd.",Liverpool,UK,Large
+10417,56,193,100,9218.16,13/05/05,Disputed,2,MAY,2005,Motorcycles,Euro Shopping Channel,Madrid,Spain,Large
+10105,50,136,100,7208,11/2/2003,Shipped,1,FEBRUARY,2003,Classic Cars,Danish Wholesale Imports,Kobenhavn,Denmark,Large
+10119,46,136,100,5004.8,28/04/03,Shipped,2,APRIL,2003,Classic Cars,Salzburg Collectables,Salzburg,Austria,Medium
+10129,33,136,100,4398.24,12/6/2003,Shipped,2,JUNE,2003,Classic Cars,"Stylish Desk Decors, Co.",London,UK,Medium
+10143,49,136,100,5597.76,10/8/2003,Shipped,3,AUGUST,2003,Classic Cars,Mini Creations Ltd.,New Bedford,USA,Medium
+10155,32,136,100,4526.08,6/10/2003,Shipped,4,OCTOBER,2003,Classic Cars,"Toys of Finland, Co.",Helsinki,Finland,Medium
+10167,44,136,100,5924.16,23/10/03,Cancelled,4,OCTOBER,2003,Classic Cars,Scandinavian Gift Ideas,Boras,Sweden,Medium
+10178,24,136,100,3492.48,8/11/2003,Shipped,4,NOVEMBER,2003,Classic Cars,Alpha Cognac,Toulouse,France,Medium
+10186,26,136,100,3854.24,14/11/03,Shipped,4,NOVEMBER,2003,Classic Cars,"Double Decker Gift Stores, Ltd",London,UK,Medium
+10197,45,136,100,5324.4,26/11/03,Shipped,4,NOVEMBER,2003,Classic Cars,Enaco Distributors,Barcelona,Spain,Medium
+10209,39,136,100,5197.92,9/1/2004,Shipped,1,JANUARY,2004,Classic Cars,"Men 'R' US Retailers, Ltd.",Los Angeles,USA,Medium
+10222,49,136,100,5997.6,19/02/04,Shipped,1,FEBRUARY,2004,Classic Cars,Collectable Mini Designs Co.,San Diego,USA,Medium
+10248,20,136,100,2910.4,7/5/2004,Cancelled,2,MAY,2004,Classic Cars,Land of Toys Inc.,NYC,USA,Small
+10261,27,136,100,3378.24,17/06/04,Shipped,2,JUNE,2004,Classic Cars,Quebec Home Shopping Network,Montreal,Canada,Medium
+10273,30,136,100,3508.8,21/07/04,Shipped,3,JULY,2004,Classic Cars,Petit Auto,Bruxelles,Belgium,Medium
+10283,25,136,100,2992,20/08/04,Shipped,3,AUGUST,2004,Classic Cars,"Royal Canadian Collectables, Ltd.",Tsawassen,Canada,Small
+10295,24,136,100,3427.2,10/9/2004,Shipped,3,SETPEMBER,2004,Classic Cars,Gifts4AllAges.com,Boston,USA,Medium
+10307,22,136,100,2692.8,14/10/04,Shipped,4,OCTOBER,2004,Classic Cars,"Classic Gift Ideas, Inc",Philadelphia,USA,Small
+10316,33,136,100,4128.96,1/11/2004,Shipped,4,NOVEMBER,2004,Classic Cars,giftsbymail.co.uk,Cowes,UK,Medium
+10325,47,136,64.93,3051.71,5/11/2004,Shipped,4,NOVEMBER,2004,Classic Cars,Baane Mini Imports,Stavern,Norway,Medium
+10337,25,136,48.05,1201.25,21/11/04,Shipped,4,NOVEMBER,2004,Classic Cars,Classic Legends Inc.,NYC,USA,Small
+10350,26,136,75.47,1962.22,2/12/2004,Shipped,4,DECEMBER,2004,Classic Cars,Euro Shopping Channel,Madrid,Spain,Small
+10359,48,136,54.68,2624.64,15/12/04,Shipped,4,DECEMBER,2004,Classic Cars,Reims Collectables,Reims,France,Small
+10373,39,136,100,4046.25,31/01/05,Shipped,1,JANUARY,2005,Classic Cars,"Oulu Toy Supplies, Inc.",Oulu,Finland,Medium
+10384,34,136,100,4846.7,23/02/05,Shipped,1,FEBRUARY,2005,Classic Cars,Corporate Gift Ideas Co.,San Francisco,USA,Medium
+10395,32,136,100,3370.56,17/03/05,Shipped,1,MARCH,2005,Classic Cars,Lyon Souveniers,Paris,France,Medium
+10400,64,136,100,9661.44,1/4/2005,Shipped,2,APRIL,2005,Classic Cars,The Sharp Gifts Warehouse,San Jose,USA,Large
+10414,19,136,100,2764.88,6/5/2005,On Hold,2,MAY,2005,Classic Cars,Gifts4AllAges.com,Boston,USA,Small
+10103,42,147,100,5398.26,29/01/03,Shipped,1,JANUARY,2003,Classic Cars,Baane Mini Imports,Stavern,Norway,Medium
+10114,31,147,100,4305.28,1/4/2003,Shipped,2,APRIL,2003,Classic Cars,"La Corne D'abondance, Co.",Paris,France,Medium
+10126,22,147,100,3347.74,28/05/03,Shipped,2,MAY,2003,Classic Cars,"Corrida Auto Replicas, Ltd",Madrid,Spain,Medium
+10140,26,147,100,3188.12,24/07/03,Shipped,3,JULY,2003,Classic Cars,Technics Stores Inc.,Burlingame,USA,Medium
+10150,20,147,100,3191.2,19/09/03,Shipped,3,SETPEMBER,2003,Classic Cars,"Dragon Souveniers, Ltd.",Singapore,Singapore,Medium
+10164,21,147,100,3536.82,21/10/03,Resolved,4,OCTOBER,2003,Classic Cars,Mini Auto Werke,Graz,Austria,Medium
+10175,33,147,100,5362.83,6/11/2003,Shipped,4,NOVEMBER,2003,Classic Cars,"Stylish Desk Decors, Co.",London,UK,Medium
+10183,28,147,100,3433.36,13/11/03,Shipped,4,NOVEMBER,2003,Classic Cars,"Classic Gift Ideas, Inc",Philadelphia,USA,Medium
+10194,26,147,100,4263.74,25/11/03,Shipped,4,NOVEMBER,2003,Classic Cars,"Saveley & Henriot, Co.",Lyon,France,Medium
+10207,31,147,100,4076.19,9/12/2003,Shipped,4,DECEMBER,2003,Classic Cars,Diecast Collectables,Boston,USA,Medium
+10217,48,147,100,7020.48,4/2/2004,Shipped,1,FEBRUARY,2004,Classic Cars,Handji Gifts& Co,Singapore,Singapore,Large
+10229,50,147,100,6426.5,11/3/2004,Shipped,1,MARCH,2004,Classic Cars,Mini Gifts Distributors Ltd.,San Rafael,USA,Medium
+10245,28,147,100,4591.72,4/5/2004,Shipped,2,MAY,2004,Classic Cars,Super Scale Inc.,New Haven,USA,Medium
+10259,26,147,100,4033.38,15/06/04,Shipped,2,JUNE,2004,Classic Cars,Handji Gifts& Co,Singapore,Singapore,Medium
+10270,32,147,100,4302.08,19/07/04,Shipped,3,JULY,2004,Classic Cars,Souveniers And Things Co.,Chatswood,Australia,Medium
+10281,44,147,100,7020.64,19/08/04,Shipped,3,AUGUST,2004,Classic Cars,Diecast Classics Inc.,Allentown,USA,Large
+10291,30,147,100,3855.9,8/9/2004,Shipped,3,SETPEMBER,2004,Classic Cars,Scandinavian Gift Ideas,Boras,Sweden,Medium
+10305,38,147,100,6680.78,13/10/04,Shipped,4,OCTOBER,2004,Classic Cars,Marta's Replicas Co.,Cambridge,USA,Medium
+10313,40,147,100,6678,22/10/04,Shipped,4,OCTOBER,2004,Classic Cars,Canadian Gift Exchange Network,Vancouver,Canada,Medium
+10322,46,147,61.99,2851.54,4/11/2004,Shipped,4,NOVEMBER,2004,Classic Cars,Online Diecast Creations Co.,Nashua,USA,Small
+10334,26,147,100,3188.12,19/11/04,On Hold,4,NOVEMBER,2004,Classic Cars,"Volvo Model Replicas, Co",Lule,Sweden,Medium
+10347,27,147,100,4428,29/11/04,Shipped,4,NOVEMBER,2004,Classic Cars,"Australian Collectors, Co.",Melbourne,Australia,Medium
+10357,43,147,100,5780.92,10/12/2004,Shipped,4,DECEMBER,2004,Classic Cars,Mini Gifts Distributors Ltd.,San Rafael,USA,Medium
+10370,35,147,65.63,2297.05,20/01/05,Shipped,1,JANUARY,2005,Classic Cars,"Anna's Decorations, Ltd",North Sydney,Australia,Small
+10381,37,147,100,6231.54,17/02/05,Shipped,1,FEBRUARY,2005,Classic Cars,Corporate Gift Ideas Co.,San Francisco,USA,Medium
+10391,37,147,46.9,1735.3,9/3/2005,Shipped,1,MARCH,2005,Classic Cars,"Anna's Decorations, Ltd",North Sydney,Australia,Small
+10411,27,147,100,4427.73,1/5/2005,Shipped,2,MAY,2005,Classic Cars,Quebec Home Shopping Network,Montreal,Canada,Medium
+10425,38,147,100,5894.94,31/05/05,In Process,2,MAY,2005,Classic Cars,La Rochelle Gifts,Nantes,France,Medium
+10108,33,194,100,5265.15,3/3/2003,Shipped,1,MARCH,2003,Classic Cars,Cruz & Sons Co.,Makati City,Philippines,Medium
+10122,42,194,100,7599.9,8/5/2003,Shipped,2,MAY,2003,Classic Cars,Marseille Mini Autos,Marseille,France,Large
+10135,42,194,100,8008.56,2/7/2003,Shipped,3,JULY,2003,Classic Cars,Mini Gifts Distributors Ltd.,San Rafael,USA,Large
+10147,48,194,100,9245.76,5/9/2003,Shipped,3,SETPEMBER,2003,Classic Cars,Collectables For Less Inc.,Brickhaven,USA,Large
+10159,41,194,100,8296.35,10/10/2003,Shipped,4,OCTOBER,2003,Classic Cars,Corporate Gift Ideas Co.,San Francisco,USA,Large
+10169,30,194,100,5019.9,4/11/2003,Shipped,4,NOVEMBER,2003,Classic Cars,"Anna's Decorations, Ltd",North Sydney,Australia,Medium
+10181,27,194,100,5411.07,12/11/2003,Shipped,4,NOVEMBER,2003,Classic Cars,Herkku Gifts,Bergen,Norway,Medium
+10191,21,194,100,3840.9,20/11/03,Shipped,4,NOVEMBER,2003,Classic Cars,"Toms Spezialitten, Ltd",Koln,Germany,Medium
+10203,20,194,100,3930.4,2/12/2003,Shipped,4,DECEMBER,2003,Classic Cars,Euro Shopping Channel,Madrid,Spain,Medium
+10211,41,194,100,7498.9,15/01/04,Shipped,1,JANUARY,2004,Classic Cars,Auto Canal Petit,Paris,France,Large
+10225,27,194,100,4517.91,22/02/04,Shipped,1,FEBRUARY,2004,Classic Cars,"Vida Sport, Ltd",Gensve,Switzerland,Medium
+10238,28,194,100,5774.72,9/4/2004,Shipped,2,APRIL,2004,Classic Cars,Danish Wholesale Imports,Kobenhavn,Denmark,Medium
+10253,24,194,100,3922.56,1/6/2004,Cancelled,2,JUNE,2004,Classic Cars,"UK Collectables, Ltd.",Liverpool,UK,Medium
+10266,44,194,100,9160.36,6/7/2004,Shipped,3,JULY,2004,Classic Cars,L'ordine Souveniers,Reggio Emilia,Italy,Large
+10276,50,194,100,9631,2/8/2004,Shipped,3,AUGUST,2004,Classic Cars,Online Mini Collectables,Brickhaven,USA,Large
+10287,21,194,100,3432.24,30/08/04,Shipped,3,AUGUST,2004,Classic Cars,"Vida Sport, Ltd",Gensve,Switzerland,Medium
+10300,33,194,100,5521.89,4/10/2003,Shipped,4,OCTOBER,2003,Classic Cars,"Blauer See Auto, Co.",Frankfurt,Germany,Medium
+10310,33,194,100,6934.62,16/10/04,Shipped,4,OCTOBER,2004,Classic Cars,"Toms Spezialitten, Ltd",Koln,Germany,Medium
+10320,31,194,100,6876.11,3/11/2004,Shipped,4,NOVEMBER,2004,Classic Cars,"Volvo Model Replicas, Co",Lule,Sweden,Medium
+10329,41,194,71.47,2930.27,15/11/04,Shipped,4,NOVEMBER,2004,Classic Cars,Land of Toys Inc.,NYC,USA,Small
+10341,45,194,79.65,3584.25,24/11/04,Shipped,4,NOVEMBER,2004,Classic Cars,Salzburg Collectables,Salzburg,Austria,Medium
+10363,33,194,85.39,2817.87,6/1/2005,Shipped,1,JANUARY,2005,Classic Cars,Suominen Souveniers,Espoo,Finland,Small
+10375,45,194,76,3420,3/2/2005,Shipped,1,FEBRUARY,2005,Classic Cars,La Rochelle Gifts,Nantes,France,Medium
+10389,26,194,99.04,2575.04,3/3/2005,Shipped,1,MARCH,2005,Classic Cars,Scandinavian Gift Ideas,Boras,Sweden,Small
+10419,12,194,100,1961.28,17/05/05,Shipped,2,MAY,2005,Classic Cars,Salzburg Collectables,Salzburg,Austria,Small
+10105,41,207,100,8690.36,11/2/2003,Shipped,1,FEBRUARY,2003,Classic Cars,Danish Wholesale Imports,Kobenhavn,Denmark,Large
+10117,33,207,100,6034.38,16/04/03,Shipped,2,APRIL,2003,Classic Cars,"Dragon Souveniers, Ltd.",Singapore,Singapore,Medium
+10127,46,207,100,11279.2,3/6/2003,Shipped,2,JUNE,2003,Classic Cars,Muscle Machine Inc,NYC,USA,Large
+10142,33,207,100,8023.29,8/8/2003,Shipped,3,AUGUST,2003,Classic Cars,Mini Gifts Distributors Ltd.,San Rafael,USA,Large
+10153,20,207,100,4904,28/09/03,Shipped,3,SETPEMBER,2003,Classic Cars,Euro Shopping Channel,Madrid,Spain,Medium
+10165,44,207,100,8594.52,22/10/03,Shipped,4,OCTOBER,2003,Classic Cars,"Dragon Souveniers, Ltd.",Singapore,Singapore,Large
+10176,33,207,100,7474.5,6/11/2003,Shipped,4,NOVEMBER,2003,Classic Cars,L'ordine Souveniers,Reggio Emilia,Italy,Large
+10185,21,207,100,3883.74,14/11/03,Shipped,4,NOVEMBER,2003,Classic Cars,Mini Creations Ltd.,New Bedford,USA,Medium
+10196,47,207,100,8887.7,26/11/03,Shipped,4,NOVEMBER,2003,Classic Cars,Super Scale Inc.,New Haven,USA,Large
+10208,46,207,100,8602.92,2/1/2004,Shipped,1,JANUARY,2004,Classic Cars,"Saveley & Henriot, Co.",Lyon,France,Large
+10220,32,207,100,7181.44,12/2/2004,Shipped,1,FEBRUARY,2004,Classic Cars,"Clover Collections, Co.",Dublin,Ireland,Large
+10231,42,207,100,8378.58,19/03/04,Shipped,1,MARCH,2004,Classic Cars,CAF Imports,Madrid,Spain,Large
+10247,44,207,100,10606.2,5/5/2004,Shipped,2,MAY,2004,Classic Cars,Suominen Souveniers,Espoo,Finland,Large
+10272,35,207,100,5818.4,20/07/04,Shipped,3,JULY,2004,Classic Cars,Diecast Classics Inc.,Allentown,USA,Medium
+10282,41,207,100,7071.27,20/08/04,Shipped,3,AUGUST,2004,Classic Cars,Mini Gifts Distributors Ltd.,San Rafael,USA,Large
+10293,46,207,100,8411.56,9/9/2004,Shipped,3,SETPEMBER,2004,Classic Cars,Amica Models & Co.,Torino,Italy,Large
+10306,31,207,100,6570.76,14/10/04,Shipped,4,OCTOBER,2004,Classic Cars,"AV Stores, Co.",Manchester,UK,Medium
+10314,38,207,100,7975.44,22/10/04,Shipped,4,OCTOBER,2004,Classic Cars,Heintze Collectables,Aaarhus,Denmark,Large
+10325,42,207,64,2688,5/11/2004,Shipped,4,NOVEMBER,2004,Classic Cars,Baane Mini Imports,Stavern,Norway,Small
+10336,33,207,57.22,1888.26,20/11/04,Shipped,4,NOVEMBER,2004,Classic Cars,"La Corne D'abondance, Co.",Paris,France,Small
+10348,48,207,52.36,2513.28,1/11/2004,Shipped,4,NOVEMBER,2004,Classic Cars,"Corrida Auto Replicas, Ltd",Madrid,Spain,Small
+10359,42,207,100,4764.48,15/12/04,Shipped,4,DECEMBER,2004,Classic Cars,Reims Collectables,Reims,France,Medium
+10371,32,207,100,3560.64,23/01/05,Shipped,1,JANUARY,2005,Classic Cars,Mini Gifts Distributors Ltd.,San Rafael,USA,Medium
+10382,34,207,100,3823.64,17/02/05,Shipped,1,FEBRUARY,2005,Classic Cars,Mini Gifts Distributors Ltd.,San Rafael,USA,Medium
+10395,33,207,69.12,2280.96,17/03/05,Shipped,1,MARCH,2005,Classic Cars,Lyon Souveniers,Paris,France,Small
+10413,36,207,100,8677.8,5/5/2005,Shipped,2,MAY,2005,Classic Cars,Gift Depot Inc.,Bridgewater,USA,Large
+10103,27,136,100,3394.98,29/01/03,Shipped,1,JANUARY,2003,Trucks and Buses,Baane Mini Imports,Stavern,Norway,Medium
+10113,21,136,100,3415.44,26/03/03,Shipped,1,MARCH,2003,Trucks and Buses,Mini Gifts Distributors Ltd.,San Rafael,USA,Medium
+10126,21,136,100,2439.57,28/05/03,Shipped,2,MAY,2003,Trucks and Buses,"Corrida Auto Replicas, Ltd",Madrid,Spain,Small
+10140,38,136,100,4829.8,24/07/03,Shipped,3,JULY,2003,Trucks and Buses,Technics Stores Inc.,Burlingame,USA,Medium
+10150,30,136,100,4100.1,19/09/03,Shipped,3,SETPEMBER,2003,Trucks and Buses,"Dragon Souveniers, Ltd.",Singapore,Singapore,Medium
+10164,49,136,100,6563.06,21/10/03,Resolved,4,OCTOBER,2003,Trucks and Buses,Mini Auto Werke,Graz,Austria,Medium
+10174,43,136,100,6817.22,6/11/2003,Shipped,4,NOVEMBER,2003,Trucks and Buses,"Australian Gift Network, Co",South Brisbane,Australia,Medium
+10183,41,136,100,6163.94,13/11/03,Shipped,4,NOVEMBER,2003,Trucks and Buses,"Classic Gift Ideas, Inc",Philadelphia,USA,Medium
+10194,38,136,100,4933.92,25/11/03,Shipped,4,NOVEMBER,2003,Trucks and Buses,"Saveley & Henriot, Co.",Lyon,France,Medium
+10206,28,136,100,4056.36,5/12/2003,Shipped,4,DECEMBER,2003,Trucks and Buses,Canadian Gift Exchange Network,Vancouver,Canada,Medium
+10216,43,136,100,5759.42,2/2/2004,Shipped,1,FEBRUARY,2004,Trucks and Buses,Auto Assoc. & Cie.,Versailles,France,Medium
+10229,25,136,100,3451,11/3/2004,Shipped,1,MARCH,2004,Trucks and Buses,Mini Gifts Distributors Ltd.,San Rafael,USA,Medium
+10245,38,136,100,5920.4,4/5/2004,Shipped,2,MAY,2004,Trucks and Buses,Super Scale Inc.,New Haven,USA,Medium
+10258,41,136,100,6668.24,15/06/04,Shipped,2,JUNE,2004,Trucks and Buses,"Tokyo Collectables, Ltd",Minato-ku,Japan,Medium
+10270,28,136,100,4094.72,19/07/04,Shipped,3,JULY,2004,Trucks and Buses,Souveniers And Things Co.,Chatswood,Australia,Medium
+10281,25,136,100,2938.5,19/08/04,Shipped,3,AUGUST,2004,Trucks and Buses,Diecast Classics Inc.,Allentown,USA,Small
+10291,41,136,100,6387.8,8/9/2004,Shipped,3,SETPEMBER,2004,Trucks and Buses,Scandinavian Gift Ideas,Boras,Sweden,Medium
+10304,39,136,100,6396,11/10/2004,Shipped,4,OCTOBER,2004,Trucks and Buses,Auto Assoc. & Cie.,Versailles,France,Medium
+10313,21,136,100,2669.1,22/10/04,Shipped,4,OCTOBER,2004,Trucks and Buses,Canadian Gift Exchange Network,Vancouver,Canada,Small
+10322,27,136,100,4784.13,4/11/2004,Shipped,4,NOVEMBER,2004,Trucks and Buses,Online Diecast Creations Co.,Nashua,USA,Medium
+10333,33,136,99.21,3273.93,18/11/04,Shipped,4,NOVEMBER,2004,Trucks and Buses,Mini Wheels Co.,San Francisco,USA,Medium
+10347,29,136,100,3586.43,29/11/04,Shipped,4,NOVEMBER,2004,Trucks and Buses,"Australian Collectors, Co.",Melbourne,Australia,Medium
+10357,49,136,100,5960.36,10/12/2004,Shipped,4,DECEMBER,2004,Trucks and Buses,Mini Gifts Distributors Ltd.,San Rafael,USA,Medium
+10370,49,136,100,8470.14,20/01/05,Shipped,1,JANUARY,2005,Trucks and Buses,"Anna's Decorations, Ltd",North Sydney,Australia,Large
+10381,20,136,100,2952,17/02/05,Shipped,1,FEBRUARY,2005,Trucks and Buses,Corporate Gift Ideas Co.,San Francisco,USA,Small
+10391,39,136,63.2,2464.8,9/3/2005,Shipped,1,MARCH,2005,Trucks and Buses,"Anna's Decorations, Ltd",North Sydney,Australia,Small
+10411,40,136,100,6232,1/5/2005,Shipped,2,MAY,2005,Trucks and Buses,Quebec Home Shopping Network,Montreal,Canada,Medium
+10424,49,136,100,7969.36,31/05/05,In Process,2,MAY,2005,Trucks and Buses,Euro Shopping Channel,Madrid,Spain,Large
+10107,21,150,100,3036.6,24/02/03,Shipped,1,FEBRUARY,2003,Motorcycles,Land of Toys Inc.,NYC,USA,Medium
+10121,50,150,100,8284,7/5/2003,Shipped,2,MAY,2003,Motorcycles,Reims Collectables,Reims,France,Large
+10134,20,150,100,2711.2,1/7/2003,Shipped,3,JULY,2003,Motorcycles,Lyon Souveniers,Paris,France,Small
+10145,49,150,100,8339.8,25/08/03,Shipped,3,AUGUST,2003,Motorcycles,Toys4GrownUps.com,Pasadena,USA,Large
+10159,38,150,100,6238.84,10/10/2003,Shipped,4,OCTOBER,2003,Motorcycles,Corporate Gift Ideas Co.,San Francisco,USA,Medium
+10169,35,150,100,4639.25,4/11/2003,Shipped,4,NOVEMBER,2003,Motorcycles,"Anna's Decorations, Ltd",North Sydney,Australia,Medium
+10180,40,150,100,6747.6,11/11/2003,Shipped,4,NOVEMBER,2003,Motorcycles,Daedalus Designs Imports,Lille,France,Medium
+10189,28,150,100,4512.48,18/11/03,Shipped,4,NOVEMBER,2003,Motorcycles,Toys4GrownUps.com,Pasadena,USA,Medium
+10201,25,150,100,4029,1/12/2003,Shipped,4,DECEMBER,2003,Motorcycles,Mini Wheels Co.,San Francisco,USA,Medium
+10211,36,150,100,4771.8,15/01/04,Shipped,1,JANUARY,2004,Motorcycles,Auto Canal Petit,Paris,France,Medium
+10224,43,150,100,6087.94,21/02/04,Shipped,1,FEBRUARY,2004,Motorcycles,Daedalus Designs Imports,Lille,France,Medium
+10237,32,150,100,4193.28,5/4/2004,Shipped,2,APRIL,2004,Motorcycles,Vitachrome Inc.,NYC,USA,Medium
+10251,46,150,100,7552.28,18/05/04,Shipped,2,MAY,2004,Motorcycles,Tekni Collectables Inc.,Newark,USA,Large
+10263,48,150,100,6434.4,28/06/04,Shipped,2,JUNE,2004,Motorcycles,Gift Depot Inc.,Bridgewater,USA,Medium
+10276,43,150,100,5181.5,2/8/2004,Shipped,3,AUGUST,2004,Motorcycles,Online Mini Collectables,Brickhaven,USA,Medium
+10285,49,150,100,6863.92,27/08/04,Shipped,3,AUGUST,2004,Motorcycles,Marta's Replicas Co.,Cambridge,USA,Medium
+10299,24,150,100,4157.04,30/09/04,Shipped,3,SETPEMBER,2004,Motorcycles,"Toys of Finland, Co.",Helsinki,Finland,Medium
+10309,26,150,100,4660.24,15/10/04,Shipped,4,OCTOBER,2004,Motorcycles,Baane Mini Imports,Stavern,Norway,Medium
+10319,30,150,100,4111.8,3/11/2004,Shipped,4,NOVEMBER,2004,Motorcycles,Microscale Inc.,NYC,USA,Medium
+10329,24,150,100,3542.64,15/11/04,Shipped,4,NOVEMBER,2004,Motorcycles,Land of Toys Inc.,NYC,USA,Medium
+10341,55,150,100,8118.55,24/11/04,Shipped,4,NOVEMBER,2004,Motorcycles,Salzburg Collectables,Salzburg,Austria,Large
+10362,22,150,100,3877.06,5/1/2005,Shipped,1,JANUARY,2005,Motorcycles,Technics Stores Inc.,Burlingame,USA,Medium
+10375,49,150,78.92,3867.08,3/2/2005,Shipped,1,FEBRUARY,2005,Motorcycles,La Rochelle Gifts,Nantes,France,Medium
+10388,44,150,100,5951.44,3/3/2005,Shipped,1,MARCH,2005,Motorcycles,FunGiftIdeas.com,New Bedford,USA,Medium
+10403,66,150,100,8648.64,8/4/2005,Shipped,2,APRIL,2005,Motorcycles,"UK Collectables, Ltd.",Liverpool,UK,Large
+10417,21,150,100,3447.78,13/05/05,Disputed,2,MAY,2005,Motorcycles,Euro Shopping Channel,Madrid,Spain,Medium
+10104,34,151,100,5958.5,31/01/03,Shipped,1,JANUARY,2003,Classic Cars,Euro Shopping Channel,Madrid,Spain,Medium
+10117,43,151,100,5911.64,16/04/03,Shipped,2,APRIL,2003,Classic Cars,"Dragon Souveniers, Ltd.",Singapore,Singapore,Medium
+10127,46,151,100,7366.44,3/6/2003,Shipped,2,JUNE,2003,Classic Cars,Muscle Machine Inc,NYC,USA,Large
+10142,33,151,100,4985.64,8/8/2003,Shipped,3,AUGUST,2003,Classic Cars,Mini Gifts Distributors Ltd.,San Rafael,USA,Medium
+10153,42,151,100,5393.64,28/09/03,Shipped,3,SETPEMBER,2003,Classic Cars,Euro Shopping Channel,Madrid,Spain,Medium
+10165,34,151,100,4880.02,22/10/03,Shipped,4,OCTOBER,2003,Classic Cars,"Dragon Souveniers, Ltd.",Singapore,Singapore,Medium
+10176,47,151,100,8378.69,6/11/2003,Shipped,4,NOVEMBER,2003,Classic Cars,L'ordine Souveniers,Reggio Emilia,Italy,Large
+10185,33,151,100,4038.21,14/11/03,Shipped,4,NOVEMBER,2003,Classic Cars,Mini Creations Ltd.,New Bedford,USA,Medium
+10196,24,151,100,3807.12,26/11/03,Shipped,4,NOVEMBER,2003,Classic Cars,Super Scale Inc.,New Haven,USA,Medium
+10208,26,151,100,3142.36,2/1/2004,Shipped,1,JANUARY,2004,Classic Cars,"Saveley & Henriot, Co.",Lyon,France,Medium
+10220,30,151,100,4713.6,12/2/2004,Shipped,1,FEBRUARY,2004,Classic Cars,"Clover Collections, Co.",Dublin,Ireland,Medium
+10230,43,151,100,7016.31,15/03/04,Shipped,1,MARCH,2004,Classic Cars,"Blauer See Auto, Co.",Frankfurt,Germany,Large
+10247,25,151,100,4381.25,5/5/2004,Shipped,2,MAY,2004,Classic Cars,Suominen Souveniers,Espoo,Finland,Medium
+10272,27,151,100,4283.01,20/07/04,Shipped,3,JULY,2004,Classic Cars,Diecast Classics Inc.,Allentown,USA,Medium
+10282,27,151,100,4364.82,20/08/04,Shipped,3,AUGUST,2004,Classic Cars,Mini Gifts Distributors Ltd.,San Rafael,USA,Medium
+10293,24,151,100,4242.24,9/9/2004,Shipped,3,SETPEMBER,2004,Classic Cars,Amica Models & Co.,Torino,Italy,Medium
+10306,34,151,100,4982.7,14/10/04,Shipped,4,OCTOBER,2004,Classic Cars,"AV Stores, Co.",Manchester,UK,Medium
+10314,46,151,100,6393.54,22/10/04,Shipped,4,OCTOBER,2004,Classic Cars,Heintze Collectables,Aaarhus,Denmark,Medium
+10324,27,151,54.33,1466.91,5/11/2004,Shipped,4,NOVEMBER,2004,Classic Cars,Vitachrome Inc.,NYC,USA,Small
+10336,33,151,100,4059.33,20/11/04,Shipped,4,NOVEMBER,2004,Classic Cars,"La Corne D'abondance, Co.",Paris,France,Medium
+10348,47,151,100,4801.52,1/11/2004,Shipped,4,NOVEMBER,2004,Classic Cars,"Corrida Auto Replicas, Ltd",Madrid,Spain,Medium
+10358,49,151,55.34,2711.66,10/12/2004,Shipped,4,DECEMBER,2004,Classic Cars,Euro Shopping Channel,Madrid,Spain,Small
+10372,40,151,100,5862,26/01/05,Shipped,1,JANUARY,2005,Classic Cars,"Tokyo Collectables, Ltd",Minato-ku,Japan,Medium
+10382,37,151,100,4071.85,17/02/05,Shipped,1,FEBRUARY,2005,Classic Cars,Mini Gifts Distributors Ltd.,San Rafael,USA,Medium
+10413,47,151,100,8236.75,5/5/2005,Shipped,2,MAY,2005,Classic Cars,Gift Depot Inc.,Bridgewater,USA,Large
+10108,45,117,100,6130.35,3/3/2003,Shipped,1,MARCH,2003,Classic Cars,Cruz & Sons Co.,Makati City,Philippines,Medium
+10122,37,117,99.82,3693.34,8/5/2003,Shipped,2,MAY,2003,Classic Cars,Marseille Mini Autos,Marseille,France,Medium
+10135,48,117,100,6031.68,2/7/2003,Shipped,3,JULY,2003,Classic Cars,Mini Gifts Distributors Ltd.,San Rafael,USA,Medium
+10147,31,117,100,3494.94,5/9/2003,Shipped,3,SETPEMBER,2003,Classic Cars,Collectables For Less Inc.,Brickhaven,USA,Medium
+10160,46,117,100,5294.14,11/10/2003,Shipped,4,OCTOBER,2003,Classic Cars,"Men 'R' US Retailers, Ltd.",Los Angeles,USA,Medium
+10170,47,117,100,5464.69,4/11/2003,Shipped,4,NOVEMBER,2003,Classic Cars,Mini Auto Werke,Graz,Austria,Medium
+10181,28,117,100,2860.76,12/11/2003,Shipped,4,NOVEMBER,2003,Classic Cars,Herkku Gifts,Bergen,Norway,Small
+10191,40,117,100,5590,20/11/03,Shipped,4,NOVEMBER,2003,Classic Cars,"Toms Spezialitten, Ltd",Koln,Germany,Medium
+10203,20,117,100,2254.8,2/12/2003,Shipped,4,DECEMBER,2003,Classic Cars,Euro Shopping Channel,Madrid,Spain,Small
+10212,39,117,100,4946.76,16/01/04,Shipped,1,JANUARY,2004,Classic Cars,Euro Shopping Channel,Madrid,Spain,Medium
+10225,25,117,99.82,2495.5,22/02/04,Shipped,1,FEBRUARY,2004,Classic Cars,"Vida Sport, Ltd",Gensve,Switzerland,Small
+10238,29,117,100,3167.38,9/4/2004,Shipped,2,APRIL,2004,Classic Cars,Danish Wholesale Imports,Kobenhavn,Denmark,Medium
+10253,22,117,100,2402.84,1/6/2004,Cancelled,2,JUNE,2004,Classic Cars,"UK Collectables, Ltd.",Liverpool,UK,Small
+10266,22,117,100,2454.54,6/7/2004,Shipped,3,JULY,2004,Classic Cars,L'ordine Souveniers,Reggio Emilia,Italy,Small
+10276,47,117,100,5464.69,2/8/2004,Shipped,3,AUGUST,2004,Classic Cars,Online Mini Collectables,Brickhaven,USA,Medium
+10287,45,117,100,4756.5,30/08/04,Shipped,3,AUGUST,2004,Classic Cars,"Vida Sport, Ltd",Gensve,Switzerland,Medium
+10300,29,117,100,3984.6,4/10/2003,Shipped,4,OCTOBER,2003,Classic Cars,"Blauer See Auto, Co.",Frankfurt,Germany,Medium
+10310,24,117,100,3100.32,16/10/04,Shipped,4,OCTOBER,2004,Classic Cars,"Toms Spezialitten, Ltd",Koln,Germany,Medium
+10320,35,117,100,4850.3,3/11/2004,Shipped,4,NOVEMBER,2004,Classic Cars,"Volvo Model Replicas, Co",Lule,Sweden,Medium
+10329,46,117,83.63,3846.98,15/11/04,Shipped,4,NOVEMBER,2004,Classic Cars,Land of Toys Inc.,NYC,USA,Medium
+10341,44,117,95.93,4220.92,24/11/04,Shipped,4,NOVEMBER,2004,Classic Cars,Salzburg Collectables,Salzburg,Austria,Medium
+10363,34,117,96.73,3288.82,6/1/2005,Shipped,1,JANUARY,2005,Classic Cars,Suominen Souveniers,Espoo,Finland,Medium
+10376,35,117,100,3987.2,8/2/2005,Shipped,1,FEBRUARY,2005,Classic Cars,Boards & Toys Co.,Glendale,USA,Medium
+10389,25,117,72.38,1809.5,3/3/2005,Shipped,1,MARCH,2005,Classic Cars,Scandinavian Gift Ideas,Boras,Sweden,Small
+10419,10,117,100,1092.2,17/05/05,Shipped,2,MAY,2005,Classic Cars,Salzburg Collectables,Salzburg,Austria,Small
+10105,29,173,100,4566.05,11/2/2003,Shipped,1,FEBRUARY,2003,Classic Cars,Danish Wholesale Imports,Kobenhavn,Denmark,Medium
+10117,39,173,100,5938.14,16/04/03,Shipped,2,APRIL,2003,Classic Cars,"Dragon Souveniers, Ltd.",Singapore,Singapore,Medium
+10127,42,173,100,8138.76,3/6/2003,Shipped,2,JUNE,2003,Classic Cars,Muscle Machine Inc,NYC,USA,Large
+10142,46,173,100,9470.94,8/8/2003,Shipped,3,AUGUST,2003,Classic Cars,Mini Gifts Distributors Ltd.,San Rafael,USA,Large
+10153,49,173,100,7036.89,28/09/03,Shipped,3,SETPEMBER,2003,Classic Cars,Euro Shopping Channel,Madrid,Spain,Large
+10165,27,173,100,5559.03,22/10/03,Shipped,4,OCTOBER,2003,Classic Cars,"Dragon Souveniers, Ltd.",Singapore,Singapore,Medium
+10176,50,173,100,7872.5,6/11/2003,Shipped,4,NOVEMBER,2003,Classic Cars,L'ordine Souveniers,Reggio Emilia,Italy,Large
+10185,43,173,100,7886.2,14/11/03,Shipped,4,NOVEMBER,2003,Classic Cars,Mini Creations Ltd.,New Bedford,USA,Large
+10196,38,173,100,7232.16,26/11/03,Shipped,4,NOVEMBER,2003,Classic Cars,Super Scale Inc.,New Haven,USA,Large
+10208,20,173,100,3114.4,2/1/2004,Shipped,1,JANUARY,2004,Classic Cars,"Saveley & Henriot, Co.",Lyon,France,Medium
+10220,27,173,100,5045.22,12/2/2004,Shipped,1,FEBRUARY,2004,Classic Cars,"Clover Collections, Co.",Dublin,Ireland,Medium
+10231,49,173,100,6952.12,19/03/04,Shipped,1,MARCH,2004,Classic Cars,CAF Imports,Madrid,Spain,Medium
+10247,27,173,100,4157.73,5/5/2004,Shipped,2,MAY,2004,Classic Cars,Suominen Souveniers,Espoo,Finland,Medium
+10272,39,173,100,7962.24,20/07/04,Shipped,3,JULY,2004,Classic Cars,Diecast Classics Inc.,Allentown,USA,Large
+10282,24,173,100,3778.8,20/08/04,Shipped,3,AUGUST,2004,Classic Cars,Mini Gifts Distributors Ltd.,San Rafael,USA,Medium
+10293,45,173,100,8253,9/9/2004,Shipped,3,SETPEMBER,2004,Classic Cars,Amica Models & Co.,Torino,Italy,Large
+10306,20,173,100,3633.4,14/10/04,Shipped,4,OCTOBER,2004,Classic Cars,"AV Stores, Co.",Manchester,UK,Medium
+10314,36,173,100,6913.8,22/10/04,Shipped,4,OCTOBER,2004,Classic Cars,Heintze Collectables,Aaarhus,Denmark,Medium
+10325,24,173,100,2583.6,5/11/2004,Shipped,4,NOVEMBER,2004,Classic Cars,Baane Mini Imports,Stavern,Norway,Small
+10336,49,173,63.38,3105.62,20/11/04,Shipped,4,NOVEMBER,2004,Classic Cars,"La Corne D'abondance, Co.",Paris,France,Medium
+10349,26,173,100,4408.56,1/12/2004,Shipped,4,DECEMBER,2004,Classic Cars,Muscle Machine Inc,NYC,USA,Medium
+10359,49,173,62.09,3042.41,15/12/04,Shipped,4,DECEMBER,2004,Classic Cars,Reims Collectables,Reims,France,Medium
+10372,34,173,100,5941.5,26/01/05,Shipped,1,JANUARY,2005,Classic Cars,"Tokyo Collectables, Ltd",Minato-ku,Japan,Medium
+10382,34,173,95.35,3241.9,17/02/05,Shipped,1,FEBRUARY,2005,Classic Cars,Mini Gifts Distributors Ltd.,San Rafael,USA,Medium
+10396,33,173,100,6109.29,23/03/05,Shipped,1,MARCH,2005,Classic Cars,Mini Gifts Distributors Ltd.,San Rafael,USA,Medium
+10413,22,173,100,3387.78,5/5/2005,Shipped,2,MAY,2005,Classic Cars,Gift Depot Inc.,Bridgewater,USA,Medium
+10108,39,79,89.38,3485.82,3/3/2003,Shipped,1,MARCH,2003,Classic Cars,Cruz & Sons Co.,Makati City,Philippines,Medium
+10122,32,79,63.84,2042.88,8/5/2003,Shipped,2,MAY,2003,Classic Cars,Marseille Mini Autos,Marseille,France,Small
+10135,24,79,75.01,1800.24,2/7/2003,Shipped,3,JULY,2003,Classic Cars,Mini Gifts Distributors Ltd.,San Rafael,USA,Small
+10147,21,79,63.84,1340.64,5/9/2003,Shipped,3,SETPEMBER,2003,Classic Cars,Collectables For Less Inc.,Brickhaven,USA,Small
+10159,24,79,73.42,1762.08,10/10/2003,Shipped,4,OCTOBER,2003,Classic Cars,Corporate Gift Ideas Co.,San Francisco,USA,Small
+10169,36,79,63.84,2298.24,4/11/2003,Shipped,4,NOVEMBER,2003,Classic Cars,"Anna's Decorations, Ltd",North Sydney,Australia,Small
+10181,20,79,81.4,1628,12/11/2003,Shipped,4,NOVEMBER,2003,Classic Cars,Herkku Gifts,Bergen,Norway,Small
+10191,30,79,64.64,1939.2,20/11/03,Shipped,4,NOVEMBER,2003,Classic Cars,"Toms Spezialitten, Ltd",Koln,Germany,Small
+10203,44,79,82.99,3651.56,2/12/2003,Shipped,4,DECEMBER,2003,Classic Cars,Euro Shopping Channel,Madrid,Spain,Medium
+10211,28,79,92.57,2591.96,15/01/04,Shipped,1,JANUARY,2004,Classic Cars,Auto Canal Petit,Paris,France,Small
+10225,37,79,77.41,2864.17,22/02/04,Shipped,1,FEBRUARY,2004,Classic Cars,"Vida Sport, Ltd",Gensve,Switzerland,Small
+10238,20,79,74.21,1484.2,9/4/2004,Shipped,2,APRIL,2004,Classic Cars,Danish Wholesale Imports,Kobenhavn,Denmark,Small
+10253,25,79,90.17,2254.25,1/6/2004,Cancelled,2,JUNE,2004,Classic Cars,"UK Collectables, Ltd.",Liverpool,UK,Small
+10266,35,79,76.61,2681.35,6/7/2004,Shipped,3,JULY,2004,Classic Cars,L'ordine Souveniers,Reggio Emilia,Italy,Small
+10276,38,79,83.79,3184.02,2/8/2004,Shipped,3,AUGUST,2004,Classic Cars,Online Mini Collectables,Brickhaven,USA,Medium
+10287,41,79,69.43,2846.63,30/08/04,Shipped,3,AUGUST,2004,Classic Cars,"Vida Sport, Ltd",Gensve,Switzerland,Small
+10300,22,79,76.61,1685.42,4/10/2003,Shipped,4,OCTOBER,2003,Classic Cars,"Blauer See Auto, Co.",Frankfurt,Germany,Small
+10310,49,79,81.4,3988.6,16/10/04,Shipped,4,OCTOBER,2004,Classic Cars,"Toms Spezialitten, Ltd",Koln,Germany,Medium
+10320,38,79,73.42,2789.96,3/11/2004,Shipped,4,NOVEMBER,2004,Classic Cars,"Volvo Model Replicas, Co",Lule,Sweden,Small
+10329,33,79,100,3607.56,15/11/04,Shipped,4,NOVEMBER,2004,Classic Cars,Land of Toys Inc.,NYC,USA,Medium
+10341,36,79,93.56,3368.16,24/11/04,Shipped,4,NOVEMBER,2004,Classic Cars,Salzburg Collectables,Salzburg,Austria,Medium
+10363,34,79,81.62,2775.08,6/1/2005,Shipped,1,JANUARY,2005,Classic Cars,Suominen Souveniers,Espoo,Finland,Small
+10377,24,79,67.83,1627.92,9/2/2005,Shipped,1,FEBRUARY,2005,Classic Cars,"Toys of Finland, Co.",Helsinki,Finland,Small
+10389,36,79,70.26,2529.36,3/3/2005,Shipped,1,MARCH,2005,Classic Cars,Scandinavian Gift Ideas,Boras,Sweden,Small
+10419,34,79,90.17,3065.78,17/05/05,Shipped,2,MAY,2005,Classic Cars,Salzburg Collectables,Salzburg,Austria,Medium
+10104,41,118,100,4615.78,31/01/03,Shipped,1,JANUARY,2003,Trucks and Buses,Euro Shopping Channel,Madrid,Spain,Medium
+10115,46,118,100,5723.78,4/4/2003,Shipped,2,APRIL,2003,Trucks and Buses,Classic Legends Inc.,NYC,USA,Medium
+10127,24,118,100,2559.6,3/6/2003,Shipped,2,JUNE,2003,Trucks and Buses,Muscle Machine Inc,NYC,USA,Small
+10141,21,118,100,2140.11,1/8/2003,Shipped,3,AUGUST,2003,Trucks and Buses,Suominen Souveniers,Espoo,Finland,Small
+10151,24,118,100,3327.6,21/09/03,Shipped,3,SETPEMBER,2003,Trucks and Buses,"Oulu Toy Supplies, Inc.",Oulu,Finland,Medium
+10165,48,118,100,6825.6,22/10/03,Shipped,4,OCTOBER,2003,Trucks and Buses,"Dragon Souveniers, Ltd.",Singapore,Singapore,Medium
+10175,26,118,100,3543.28,6/11/2003,Shipped,4,NOVEMBER,2003,Trucks and Buses,"Stylish Desk Decors, Co.",London,UK,Medium
+10184,37,118,100,4516.22,14/11/03,Shipped,4,NOVEMBER,2003,Trucks and Buses,"Iberia Gift Imports, Corp.",Sevilla,Spain,Medium
+10195,49,118,100,6445.46,25/11/03,Shipped,4,NOVEMBER,2003,Trucks and Buses,Mini Classics,White Plains,USA,Medium
+10207,34,118,99.54,3384.36,9/12/2003,Shipped,4,DECEMBER,2003,Trucks and Buses,Diecast Collectables,Boston,USA,Medium
+10219,48,118,100,4891.68,10/2/2004,Shipped,1,FEBRUARY,2004,Trucks and Buses,Signal Collectibles Ltd.,Brisbane,USA,Medium
+10229,36,118,100,4521.96,11/3/2004,Shipped,1,MARCH,2004,Trucks and Buses,Mini Gifts Distributors Ltd.,San Rafael,USA,Medium
+10246,46,118,100,5069.66,5/5/2004,Shipped,2,MAY,2004,Trucks and Buses,Euro Shopping Channel,Madrid,Spain,Medium
+10259,46,118,100,6541.2,15/06/04,Shipped,2,JUNE,2004,Trucks and Buses,Handji Gifts& Co,Singapore,Singapore,Medium
+10271,31,118,97.17,3012.27,20/07/04,Shipped,3,JULY,2004,Trucks and Buses,Mini Gifts Distributors Ltd.,San Rafael,USA,Medium
+10281,41,118,100,5247.18,19/08/04,Shipped,3,AUGUST,2004,Trucks and Buses,Diecast Classics Inc.,Allentown,USA,Medium
+10292,21,118,100,2214.87,8/9/2004,Shipped,3,SETPEMBER,2004,Trucks and Buses,Land of Toys Inc.,NYC,USA,Small
+10305,38,118,100,4773.18,13/10/04,Shipped,4,OCTOBER,2004,Trucks and Buses,Marta's Replicas Co.,Cambridge,USA,Medium
+10314,45,118,100,6185.7,22/10/04,Shipped,4,OCTOBER,2004,Trucks and Buses,Heintze Collectables,Aaarhus,Denmark,Medium
+10324,26,118,58.38,1517.88,5/11/2004,Shipped,4,NOVEMBER,2004,Trucks and Buses,Vitachrome Inc.,NYC,USA,Small
+10336,38,118,100,6372.6,20/11/04,Shipped,4,NOVEMBER,2004,Trucks and Buses,"La Corne D'abondance, Co.",Paris,France,Medium
+10349,48,118,100,5232.96,1/12/2004,Shipped,4,DECEMBER,2004,Trucks and Buses,Muscle Machine Inc,NYC,USA,Medium
+10358,42,118,64.16,2694.72,10/12/2004,Shipped,4,DECEMBER,2004,Trucks and Buses,Euro Shopping Channel,Madrid,Spain,Small
+10371,49,118,35.71,1749.79,23/01/05,Shipped,1,JANUARY,2005,Trucks and Buses,Mini Gifts Distributors Ltd.,San Rafael,USA,Small
+10382,32,118,66.58,2130.56,17/02/05,Shipped,1,FEBRUARY,2005,Trucks and Buses,Mini Gifts Distributors Ltd.,San Rafael,USA,Small
+10412,54,118,100,5951.34,3/5/2005,Shipped,2,MAY,2005,Trucks and Buses,Euro Shopping Channel,Madrid,Spain,Medium
+10425,33,118,100,4692.6,31/05/05,In Process,2,MAY,2005,Trucks and Buses,La Rochelle Gifts,Nantes,France,Medium
+10108,36,115,100,3731.04,3/3/2003,Shipped,1,MARCH,2003,Classic Cars,Cruz & Sons Co.,Makati City,Philippines,Medium
+10122,20,115,100,2142,8/5/2003,Shipped,2,MAY,2003,Classic Cars,Marseille Mini Autos,Marseille,France,Small
+10135,29,115,97.89,2838.81,2/7/2003,Shipped,3,JULY,2003,Classic Cars,Mini Gifts Distributors Ltd.,San Rafael,USA,Small
+10147,33,115,97.89,3230.37,5/9/2003,Shipped,3,SETPEMBER,2003,Classic Cars,Collectables For Less Inc.,Brickhaven,USA,Medium
+10160,50,115,100,5182,11/10/2003,Shipped,4,OCTOBER,2003,Classic Cars,"Men 'R' US Retailers, Ltd.",Los Angeles,USA,Medium
+10170,41,115,100,4391.1,4/11/2003,Shipped,4,NOVEMBER,2003,Classic Cars,Mini Auto Werke,Graz,Austria,Medium
+10181,36,115,100,4477.32,12/11/2003,Shipped,4,NOVEMBER,2003,Classic Cars,Herkku Gifts,Bergen,Norway,Medium
+10192,27,115,100,3544.56,20/11/03,Shipped,4,NOVEMBER,2003,Classic Cars,Online Diecast Creations Co.,Nashua,USA,Medium
+10203,47,115,100,5195.85,2/12/2003,Shipped,4,DECEMBER,2003,Classic Cars,Euro Shopping Channel,Madrid,Spain,Medium
+10212,33,115,100,4180.44,16/01/04,Shipped,1,JANUARY,2004,Classic Cars,Euro Shopping Channel,Madrid,Spain,Medium
+10225,21,115,100,2684.43,22/02/04,Shipped,1,FEBRUARY,2004,Classic Cars,"Vida Sport, Ltd",Gensve,Switzerland,Small
+10239,21,115,93.28,1958.88,12/4/2004,Shipped,2,APRIL,2004,Classic Cars,"Oulu Toy Supplies, Inc.",Oulu,Finland,Small
+10253,41,115,100,4910.57,1/6/2004,Cancelled,2,JUNE,2004,Classic Cars,"UK Collectables, Ltd.",Liverpool,UK,Medium
+10266,40,115,100,4468.4,6/7/2004,Shipped,3,JULY,2004,Classic Cars,L'ordine Souveniers,Reggio Emilia,Italy,Medium
+10277,28,115,100,3127.88,4/8/2004,Shipped,3,AUGUST,2004,Classic Cars,"Dragon Souveniers, Ltd.",Singapore,Singapore,Medium
+10287,23,115,100,2675.13,30/08/04,Shipped,3,AUGUST,2004,Classic Cars,"Vida Sport, Ltd",Gensve,Switzerland,Small
+10300,23,115,100,2807.61,4/10/2003,Shipped,4,OCTOBER,2003,Classic Cars,"Blauer See Auto, Co.",Frankfurt,Germany,Small
+10310,25,115,100,2504.75,16/10/04,Shipped,4,OCTOBER,2004,Classic Cars,"Toms Spezialitten, Ltd",Koln,Germany,Small
+10321,24,115,100,2984.88,4/11/2004,Shipped,4,NOVEMBER,2004,Classic Cars,FunGiftIdeas.com,New Bedford,USA,Small
+10329,39,115,64.74,2524.86,15/11/04,Shipped,4,NOVEMBER,2004,Classic Cars,Land of Toys Inc.,NYC,USA,Small
+10341,55,115,75.2,4136,24/11/04,Shipped,4,NOVEMBER,2004,Classic Cars,Salzburg Collectables,Salzburg,Austria,Medium
+10363,46,115,88.45,4068.7,6/1/2005,Shipped,1,JANUARY,2005,Classic Cars,Suominen Souveniers,Espoo,Finland,Medium
+10377,50,115,100,5182,9/2/2005,Shipped,1,FEBRUARY,2005,Classic Cars,"Toys of Finland, Co.",Helsinki,Finland,Medium
+10389,47,115,100,5243.79,3/3/2005,Shipped,1,MARCH,2005,Classic Cars,Scandinavian Gift Ideas,Boras,Sweden,Medium
+10405,97,115,93.28,9048.16,14/04/05,Shipped,2,APRIL,2005,Classic Cars,Mini Caravy,Strasbourg,France,Large
+10419,32,115,100,3832.64,17/05/05,Shipped,2,MAY,2005,Classic Cars,Salzburg Collectables,Salzburg,Austria,Medium
+10103,35,116,100,3920,29/01/03,Shipped,1,JANUARY,2003,Trucks and Buses,Baane Mini Imports,Stavern,Norway,Medium
+10113,49,116,100,4916.66,26/03/03,Shipped,1,MARCH,2003,Trucks and Buses,Mini Gifts Distributors Ltd.,San Rafael,USA,Medium
+10126,38,116,100,3857,28/05/03,Shipped,2,MAY,2003,Trucks and Buses,"Corrida Auto Replicas, Ltd",Madrid,Spain,Medium
+10140,32,116,100,4181.44,24/07/03,Shipped,3,JULY,2003,Trucks and Buses,Technics Stores Inc.,Burlingame,USA,Medium
+10150,34,116,100,4641,19/09/03,Shipped,3,SETPEMBER,2003,Trucks and Buses,"Dragon Souveniers, Ltd.",Singapore,Singapore,Medium
+10164,36,116,99.17,3570.12,21/10/03,Resolved,4,OCTOBER,2003,Trucks and Buses,Mini Auto Werke,Graz,Austria,Medium
+10174,48,116,93.34,4480.32,6/11/2003,Shipped,4,NOVEMBER,2003,Trucks and Buses,"Australian Gift Network, Co",South Brisbane,Australia,Medium
+10183,21,116,96.84,2033.64,13/11/03,Shipped,4,NOVEMBER,2003,Trucks and Buses,"Classic Gift Ideas, Inc",Philadelphia,USA,Small
+10194,21,116,93.34,1960.14,25/11/03,Shipped,4,NOVEMBER,2003,Trucks and Buses,"Saveley & Henriot, Co.",Lyon,France,Small
+10206,34,116,100,3966.78,5/12/2003,Shipped,4,DECEMBER,2003,Trucks and Buses,Canadian Gift Exchange Network,Vancouver,Canada,Medium
+10215,46,116,100,5152,29/01/04,Shipped,1,JANUARY,2004,Trucks and Buses,West Coast Collectables Co.,Burbank,USA,Medium
+10228,32,116,100,3360,10/3/2004,Shipped,1,MARCH,2004,Trucks and Buses,Cambridge Collectables Co.,Cambridge,USA,Medium
+10245,29,116,100,3451,4/5/2004,Shipped,2,MAY,2004,Trucks and Buses,Super Scale Inc.,New Haven,USA,Medium
+10258,41,116,100,5453,15/06/04,Shipped,2,JUNE,2004,Trucks and Buses,"Tokyo Collectables, Ltd",Minato-ku,Japan,Medium
+10270,43,116,96.84,4164.12,19/07/04,Shipped,3,JULY,2004,Trucks and Buses,Souveniers And Things Co.,Chatswood,Australia,Medium
+10280,24,116,100,2800.08,17/08/04,Shipped,3,AUGUST,2004,Trucks and Buses,Amica Models & Co.,Torino,Italy,Small
+10291,41,116,100,4687.94,8/9/2004,Shipped,3,SETPEMBER,2004,Trucks and Buses,Scandinavian Gift Ideas,Boras,Sweden,Medium
+10304,46,116,98,4508,11/10/2004,Shipped,4,OCTOBER,2004,Trucks and Buses,Auto Assoc. & Cie.,Versailles,France,Medium
+10312,32,116,100,4181.44,21/10/04,Shipped,4,OCTOBER,2004,Trucks and Buses,Mini Gifts Distributors Ltd.,San Rafael,USA,Medium
+10322,22,116,100,2251.04,4/11/2004,Shipped,4,NOVEMBER,2004,Trucks and Buses,Online Diecast Creations Co.,Nashua,USA,Small
+10333,29,116,40.25,1167.25,18/11/04,Shipped,4,NOVEMBER,2004,Trucks and Buses,Mini Wheels Co.,San Francisco,USA,Small
+10347,42,116,49.6,2083.2,29/11/04,Shipped,4,NOVEMBER,2004,Trucks and Buses,"Australian Collectors, Co.",Melbourne,Australia,Small
+10357,39,116,98,3822,10/12/2004,Shipped,4,DECEMBER,2004,Trucks and Buses,Mini Gifts Distributors Ltd.,San Rafael,USA,Medium
+10370,27,116,100,3911.49,20/01/05,Shipped,1,JANUARY,2005,Trucks and Buses,"Anna's Decorations, Ltd",North Sydney,Australia,Medium
+10381,48,116,98,4704,17/02/05,Shipped,1,FEBRUARY,2005,Trucks and Buses,Corporate Gift Ideas Co.,San Francisco,USA,Medium
+10391,29,116,85.1,2467.9,9/3/2005,Shipped,1,MARCH,2005,Trucks and Buses,"Anna's Decorations, Ltd",North Sydney,Australia,Small
+10411,27,116,100,3213,1/5/2005,Shipped,2,MAY,2005,Trucks and Buses,Quebec Home Shopping Network,Montreal,Canada,Medium
+10424,54,116,100,7182,31/05/05,In Process,2,MAY,2005,Trucks and Buses,Euro Shopping Channel,Madrid,Spain,Large
+10109,26,141,100,4379.18,10/3/2003,Shipped,1,MARCH,2003,Classic Cars,Motor Mint Distributors Inc.,Philadelphia,USA,Medium
+10122,34,141,100,5004.8,8/5/2003,Shipped,2,MAY,2003,Classic Cars,Marseille Mini Autos,Marseille,France,Medium
+10136,25,141,100,3644.75,4/7/2003,Shipped,3,JULY,2003,Classic Cars,Alpha Cognac,Toulouse,France,Medium
+10148,23,141,100,2702.04,11/9/2003,Shipped,3,SETPEMBER,2003,Classic Cars,"Anna's Decorations, Ltd",North Sydney,Australia,Small
+10161,28,141,100,3764.88,17/10/03,Shipped,4,OCTOBER,2003,Classic Cars,Heintze Collectables,Aaarhus,Denmark,Medium
+10171,35,141,100,4508,5/11/2003,Shipped,4,NOVEMBER,2003,Classic Cars,Quebec Home Shopping Network,Montreal,Canada,Medium
+10181,44,141,100,5418.16,12/11/2003,Shipped,4,NOVEMBER,2003,Classic Cars,Herkku Gifts,Bergen,Norway,Medium
+10192,22,141,100,3300.66,20/11/03,Shipped,4,NOVEMBER,2003,Classic Cars,Online Diecast Creations Co.,Nashua,USA,Medium
+10204,42,141,100,6182.4,2/12/2003,Shipped,4,DECEMBER,2003,Classic Cars,Muscle Machine Inc,NYC,USA,Medium
+10212,29,141,100,4186.73,16/01/04,Shipped,1,JANUARY,2004,Classic Cars,Euro Shopping Channel,Madrid,Spain,Medium
+10225,32,141,100,4529.28,22/02/04,Shipped,1,FEBRUARY,2004,Classic Cars,"Vida Sport, Ltd",Gensve,Switzerland,Medium
+10240,41,141,100,5628.89,13/04/04,Shipped,2,APRIL,2004,Classic Cars,Osaka Souveniers Co.,Osaka,Japan,Medium
+10253,26,141,100,3054.48,1/6/2004,Cancelled,2,JUNE,2004,Classic Cars,"UK Collectables, Ltd.",Liverpool,UK,Medium
+10266,21,141,100,2526.51,6/7/2004,Shipped,3,JULY,2004,Classic Cars,L'ordine Souveniers,Reggio Emilia,Italy,Small
+10278,34,141,100,4667.86,6/8/2004,Shipped,3,AUGUST,2004,Classic Cars,Signal Gift Stores,Las Vegas,USA,Medium
+10287,41,141,100,6499.32,30/08/04,Shipped,3,AUGUST,2004,Classic Cars,"Vida Sport, Ltd",Gensve,Switzerland,Medium
+10301,37,141,100,5917.78,5/10/2003,Shipped,4,OCTOBER,2003,Classic Cars,"Norway Gifts By Mail, Co.",Oslo,Norway,Medium
+10310,37,141,100,6231.91,16/10/04,Shipped,4,OCTOBER,2004,Classic Cars,"Toms Spezialitten, Ltd",Koln,Germany,Medium
+10321,41,141,100,5803.14,4/11/2004,Shipped,4,NOVEMBER,2004,Classic Cars,FunGiftIdeas.com,New Bedford,USA,Medium
+10331,46,141,100,6434.02,17/11/04,Shipped,4,NOVEMBER,2004,Classic Cars,Motor Mint Distributors Inc.,Philadelphia,USA,Medium
+10342,40,141,100,6454.4,24/11/04,Shipped,4,NOVEMBER,2004,Classic Cars,"Australian Collectors, Co.",Melbourne,Australia,Medium
+10356,43,141,97.6,4196.8,9/12/2004,Shipped,4,DECEMBER,2004,Classic Cars,Lyon Souveniers,Paris,France,Medium
+10365,30,141,87.06,2611.8,7/1/2005,Shipped,1,JANUARY,2005,Classic Cars,Mini Creations Ltd.,New Bedford,USA,Small
+10377,35,141,100,5895.05,9/2/2005,Shipped,1,FEBRUARY,2005,Classic Cars,"Toys of Finland, Co.",Helsinki,Finland,Medium
+10390,36,141,93.77,3375.72,4/3/2005,Shipped,1,MARCH,2005,Classic Cars,Mini Gifts Distributors Ltd.,San Rafael,USA,Medium
+10406,61,141,100,8374.69,15/04/05,Disputed,2,APRIL,2005,Classic Cars,Danish Wholesale Imports,Kobenhavn,Denmark,Large
+10419,38,141,100,4464.24,17/05/05,Shipped,2,MAY,2005,Classic Cars,Salzburg Collectables,Salzburg,Austria,Medium
+10102,39,102,100,4808.31,10/1/2003,Shipped,1,JANUARY,2003,Vintage Cars,Vitachrome Inc.,NYC,USA,Medium
+10111,33,102,99.66,3288.78,25/03/03,Shipped,1,MARCH,2003,Vintage Cars,Mini Wheels Co.,San Francisco,USA,Medium
+10125,32,102,100,3254.72,21/05/03,Shipped,2,MAY,2003,Vintage Cars,"Australian Collectors, Co.",Melbourne,Australia,Medium
+10139,31,102,100,3184.94,16/07/03,Shipped,3,JULY,2003,Vintage Cars,Souveniers And Things Co.,Chatswood,Australia,Medium
+10149,50,102,100,5907.5,12/9/2003,Shipped,3,SETPEMBER,2003,Vintage Cars,Signal Collectibles Ltd.,Brisbane,USA,Medium
+10162,48,102,91.44,4389.12,18/10/03,Shipped,4,OCTOBER,2003,Vintage Cars,Corporate Gift Ideas Co.,San Francisco,USA,Medium
+10173,43,102,100,5036.16,5/11/2003,Shipped,4,NOVEMBER,2003,Vintage Cars,Rovelli Gifts,Bergamo,Italy,Medium
+10182,25,102,87.33,2183.25,12/11/2003,Shipped,4,NOVEMBER,2003,Vintage Cars,Mini Gifts Distributors Ltd.,San Rafael,USA,Small
+10193,28,102,100,3106.88,21/11/03,Shipped,4,NOVEMBER,2003,Vintage Cars,"Australian Collectables, Ltd",Glen Waverly,Australia,Medium
+10205,36,102,100,3735.72,3/12/2003,Shipped,4,DECEMBER,2003,Vintage Cars,Euro Shopping Channel,Madrid,Spain,Medium
+10215,27,102,89.38,2413.26,29/01/04,Shipped,1,JANUARY,2004,Vintage Cars,West Coast Collectables Co.,Burbank,USA,Small
+10227,25,102,100,2953.75,2/3/2004,Shipped,1,MARCH,2004,Vintage Cars,"Saveley & Henriot, Co.",Lyon,France,Small
+10244,40,102,100,4684.8,29/04/04,Shipped,2,APRIL,2004,Vintage Cars,Euro Shopping Channel,Madrid,Spain,Medium
+10256,34,102,95.55,3248.7,8/6/2004,Shipped,2,JUNE,2004,Vintage Cars,Danish Wholesale Imports,Kobenhavn,Denmark,Medium
+10280,50,102,100,5239.5,17/08/04,Shipped,3,AUGUST,2004,Vintage Cars,Amica Models & Co.,Torino,Italy,Medium
+10289,38,102,100,4567.98,3/9/2004,Shipped,3,SETPEMBER,2004,Vintage Cars,Herkku Gifts,Bergen,Norway,Medium
+10304,37,102,95.55,3535.35,11/10/2004,Shipped,4,OCTOBER,2004,Vintage Cars,Auto Assoc. & Cie.,Versailles,France,Medium
+10312,43,102,89.38,3843.34,21/10/04,Shipped,4,OCTOBER,2004,Vintage Cars,Mini Gifts Distributors Ltd.,San Rafael,USA,Medium
+10322,43,102,86.3,3710.9,4/11/2004,Shipped,4,NOVEMBER,2004,Vintage Cars,Online Diecast Creations Co.,Nashua,USA,Medium
+10332,46,102,95.13,4375.98,17/11/04,Shipped,4,NOVEMBER,2004,Vintage Cars,"AV Stores, Co.",Manchester,UK,Medium
+10346,42,102,36.11,1516.62,29/11/04,Shipped,4,NOVEMBER,2004,Vintage Cars,Signal Gift Stores,Las Vegas,USA,Small
+10356,50,102,50.18,2509,9/12/2004,Shipped,4,DECEMBER,2004,Vintage Cars,Lyon Souveniers,Paris,France,Small
+10369,44,102,100,9240.44,20/01/05,Shipped,1,JANUARY,2005,Vintage Cars,Collectables For Less Inc.,Brickhaven,USA,Large
+10380,27,102,93.16,2515.32,16/02/05,Shipped,1,FEBRUARY,2005,Vintage Cars,Euro Shopping Channel,Madrid,Spain,Small
+10391,35,102,100,5548.9,9/3/2005,Shipped,1,MARCH,2005,Vintage Cars,"Anna's Decorations, Ltd",North Sydney,Australia,Medium
+10422,51,102,95.55,4873.05,30/05/05,In Process,2,MAY,2005,Vintage Cars,Diecast Classics Inc.,Allentown,USA,Medium
+10102,41,53,50.14,2055.74,10/1/2003,Shipped,1,JANUARY,2003,Vintage Cars,Vitachrome Inc.,NYC,USA,Small
+10111,48,53,49.06,2354.88,25/03/03,Shipped,1,MARCH,2003,Vintage Cars,Mini Wheels Co.,San Francisco,USA,Small
+10126,42,53,54.99,2309.58,28/05/03,Shipped,2,MAY,2003,Vintage Cars,"Corrida Auto Replicas, Ltd",Madrid,Spain,Small
+10139,49,53,43.13,2113.37,16/07/03,Shipped,3,JULY,2003,Vintage Cars,Souveniers And Things Co.,Chatswood,Australia,Small
+10149,30,53,58.22,1746.6,12/9/2003,Shipped,3,SETPEMBER,2003,Vintage Cars,Signal Collectibles Ltd.,Brisbane,USA,Small
+10162,45,53,51.21,2304.45,18/10/03,Shipped,4,OCTOBER,2003,Vintage Cars,Corporate Gift Ideas Co.,San Francisco,USA,Small
+10173,48,53,44.21,2122.08,5/11/2003,Shipped,4,NOVEMBER,2003,Vintage Cars,Rovelli Gifts,Bergamo,Italy,Small
+10182,32,53,54.45,1742.4,12/11/2003,Shipped,4,NOVEMBER,2003,Vintage Cars,Mini Gifts Distributors Ltd.,San Rafael,USA,Small
+10193,46,53,53.37,2455.02,21/11/03,Shipped,4,NOVEMBER,2003,Vintage Cars,"Australian Collectables, Ltd",Glen Waverly,Australia,Small
+10205,48,53,63.61,3053.28,3/12/2003,Shipped,4,DECEMBER,2003,Vintage Cars,Euro Shopping Channel,Madrid,Spain,Medium
+10215,33,53,43.13,1423.29,29/01/04,Shipped,1,JANUARY,2004,Vintage Cars,West Coast Collectables Co.,Burbank,USA,Small
+10227,31,53,48.52,1504.12,2/3/2004,Shipped,1,MARCH,2004,Vintage Cars,"Saveley & Henriot, Co.",Lyon,France,Small
+10244,20,53,58.22,1164.4,29/04/04,Shipped,2,APRIL,2004,Vintage Cars,Euro Shopping Channel,Madrid,Spain,Small
+10256,29,53,51.75,1500.75,8/6/2004,Shipped,2,JUNE,2004,Vintage Cars,Danish Wholesale Imports,Kobenhavn,Denmark,Small
+10280,27,53,57.68,1557.36,17/08/04,Shipped,3,AUGUST,2004,Vintage Cars,Amica Models & Co.,Torino,Italy,Small
+10289,24,53,56.07,1345.68,3/9/2004,Shipped,3,SETPEMBER,2004,Vintage Cars,Herkku Gifts,Bergen,Norway,Small
+10304,37,53,48.52,1795.24,11/10/2004,Shipped,4,OCTOBER,2004,Vintage Cars,Auto Assoc. & Cie.,Versailles,France,Small
+10312,25,53,44.21,1105.25,21/10/04,Shipped,4,OCTOBER,2004,Vintage Cars,Mini Gifts Distributors Ltd.,San Rafael,USA,Small
+10322,41,53,57.68,2364.88,4/11/2004,Shipped,4,NOVEMBER,2004,Vintage Cars,Online Diecast Creations Co.,Nashua,USA,Small
+10332,27,53,89.89,2427.03,17/11/04,Shipped,4,NOVEMBER,2004,Vintage Cars,"AV Stores, Co.",Manchester,UK,Small
+10347,21,53,58.95,1237.95,29/11/04,Shipped,4,NOVEMBER,2004,Vintage Cars,"Australian Collectors, Co.",Melbourne,Australia,Small
+10356,22,53,72.41,1593.02,9/12/2004,Shipped,4,DECEMBER,2004,Vintage Cars,Lyon Souveniers,Paris,France,Small
+10369,32,53,98.63,3156.16,20/01/05,Shipped,1,JANUARY,2005,Vintage Cars,Collectables For Less Inc.,Brickhaven,USA,Medium
+10381,25,53,52.83,1320.75,17/02/05,Shipped,1,FEBRUARY,2005,Vintage Cars,Corporate Gift Ideas Co.,San Francisco,USA,Small
+10391,42,53,100,4998,9/3/2005,Shipped,1,MARCH,2005,Vintage Cars,"Anna's Decorations, Ltd",North Sydney,Australia,Medium
+10422,25,53,51.75,1293.75,30/05/05,In Process,2,MAY,2005,Vintage Cars,Diecast Classics Inc.,Allentown,USA,Small
+10110,37,124,100,5433.08,18/03/03,Shipped,1,MARCH,2003,Classic Cars,"AV Stores, Co.",Manchester,UK,Medium
+10123,26,124,100,3073.72,20/05/03,Shipped,2,MAY,2003,Classic Cars,Atelier graphique,Nantes,France,Medium
+10137,44,124,99.55,4380.2,10/7/2003,Shipped,3,JULY,2003,Classic Cars,Reims Collectables,Reims,France,Medium
+10148,47,124,100,5848.68,11/9/2003,Shipped,3,SETPEMBER,2003,Classic Cars,"Anna's Decorations, Ltd",North Sydney,Australia,Medium
+10161,43,124,100,6153.73,17/10/03,Shipped,4,OCTOBER,2003,Classic Cars,Heintze Collectables,Aaarhus,Denmark,Medium
+10172,42,124,100,4965.24,5/11/2003,Shipped,4,NOVEMBER,2003,Classic Cars,Gift Depot Inc.,Bridgewater,USA,Medium
+10181,42,124,100,5435.64,12/11/2003,Shipped,4,NOVEMBER,2003,Classic Cars,Herkku Gifts,Bergen,Norway,Medium
+10192,29,124,100,4258.36,20/11/03,Shipped,4,NOVEMBER,2003,Classic Cars,Online Diecast Creations Co.,Nashua,USA,Medium
+10204,40,124,100,4032,2/12/2003,Shipped,4,DECEMBER,2003,Classic Cars,Muscle Machine Inc,NYC,USA,Medium
+10212,38,124,100,4492.36,16/01/04,Shipped,1,JANUARY,2004,Classic Cars,Euro Shopping Channel,Madrid,Spain,Medium
+10226,38,124,100,4161.38,26/02/04,Shipped,1,FEBRUARY,2004,Classic Cars,Collectable Mini Designs Co.,San Diego,USA,Medium
+10241,21,124,100,2508.66,13/04/04,Shipped,2,APRIL,2004,Classic Cars,Mini Caravy,Strasbourg,France,Small
+10253,24,124,100,3374.88,1/6/2004,Cancelled,2,JUNE,2004,Classic Cars,"UK Collectables, Ltd.",Liverpool,UK,Medium
+10266,36,124,100,5196.6,6/7/2004,Shipped,3,JULY,2004,Classic Cars,L'ordine Souveniers,Reggio Emilia,Italy,Medium
+10278,23,124,100,2604.52,6/8/2004,Shipped,3,AUGUST,2004,Classic Cars,Signal Gift Stores,Las Vegas,USA,Small
+10288,20,124,100,2936.8,1/9/2004,Shipped,3,SETPEMBER,2004,Classic Cars,Handji Gifts& Co,Singapore,Singapore,Small
+10301,32,124,100,3424.64,5/10/2003,Shipped,4,OCTOBER,2003,Classic Cars,"Norway Gifts By Mail, Co.",Oslo,Norway,Medium
+10311,29,124,100,2923.2,16/10/04,Shipped,4,OCTOBER,2004,Classic Cars,Euro Shopping Channel,Madrid,Spain,Small
+10321,44,124,100,4489.76,4/11/2004,Shipped,4,NOVEMBER,2004,Classic Cars,FunGiftIdeas.com,New Bedford,USA,Medium
+10331,44,124,100,4849.24,17/11/04,Shipped,4,NOVEMBER,2004,Classic Cars,Motor Mint Distributors Inc.,Philadelphia,USA,Medium
+10343,36,124,100,5848.92,24/11/04,Shipped,4,NOVEMBER,2004,Classic Cars,Reims Collectables,Reims,France,Medium
+10367,49,124,56.3,2758.7,12/1/2005,Resolved,1,JANUARY,2005,Classic Cars,Toys4GrownUps.com,Pasadena,USA,Small
+10378,34,124,42.64,1449.76,10/2/2005,Shipped,1,FEBRUARY,2005,Classic Cars,Euro Shopping Channel,Madrid,Spain,Small
+10407,59,124,100,7048.14,22/04/05,On Hold,2,APRIL,2005,Classic Cars,The Sharp Gifts Warehouse,San Jose,USA,Large
+10419,37,124,100,5202.94,17/05/05,Shipped,2,MAY,2005,Classic Cars,Salzburg Collectables,Salzburg,Austria,Medium
+10106,36,157,100,5279.4,17/02/03,Shipped,1,FEBRUARY,2003,Planes,Rovelli Gifts,Bergamo,Italy,Medium
+10119,43,157,100,6916.12,28/04/03,Shipped,2,APRIL,2003,Planes,Salzburg Collectables,Salzburg,Austria,Medium
+10131,21,157,100,2781.66,16/06/03,Shipped,2,JUNE,2003,Planes,Gift Ideas Corp.,Glendale,USA,Small
+10143,32,157,100,5248,10/8/2003,Shipped,3,AUGUST,2003,Planes,Mini Creations Ltd.,New Bedford,USA,Medium
+10155,38,157,100,6531.44,6/10/2003,Shipped,4,OCTOBER,2003,Planes,"Toys of Finland, Co.",Helsinki,Finland,Medium
+10167,43,157,100,5763.72,23/10/03,Cancelled,4,OCTOBER,2003,Planes,Scandinavian Gift Ideas,Boras,Sweden,Medium
+10178,42,157,100,6490.68,8/11/2003,Shipped,4,NOVEMBER,2003,Planes,Alpha Cognac,Toulouse,France,Medium
+10186,32,157,100,6004.8,14/11/03,Shipped,4,NOVEMBER,2003,Planes,"Double Decker Gift Stores, Ltd",London,UK,Medium
+10198,42,157,100,7483.98,27/11/03,Shipped,4,NOVEMBER,2003,Planes,Cruz & Sons Co.,Makati City,Philippines,Large
+10210,31,157,100,5719.5,12/1/2004,Shipped,1,JANUARY,2004,Planes,Osaka Souveniers Co.,Osaka,Japan,Medium
+10222,49,157,100,6954.08,19/02/04,Shipped,1,FEBRUARY,2004,Planes,Collectable Mini Designs Co.,San Diego,USA,Medium
+10250,45,157,100,8160.3,11/5/2004,Shipped,2,MAY,2004,Planes,The Sharp Gifts Warehouse,San Jose,USA,Large
+10262,49,157,100,6567.96,24/06/04,Cancelled,2,JUNE,2004,Planes,Euro Shopping Channel,Madrid,Spain,Medium
+10274,41,157,100,6724,21/07/04,Shipped,3,JULY,2004,Planes,Collectables For Less Inc.,Brickhaven,USA,Medium
+10284,45,157,100,5747.85,21/08/04,Shipped,3,AUGUST,2004,Planes,"Norway Gifts By Mail, Co.",Oslo,Norway,Medium
+10296,36,157,100,5676.84,15/09/04,Shipped,3,SETPEMBER,2004,Planes,"Bavarian Collectables Imports, Co.",Munich,Germany,Medium
+10307,39,157,100,7379.97,14/10/04,Shipped,4,OCTOBER,2004,Planes,"Classic Gift Ideas, Inc",Philadelphia,USA,Large
+10316,27,157,100,3704.13,1/11/2004,Shipped,4,NOVEMBER,2004,Planes,giftsbymail.co.uk,Cowes,UK,Medium
+10327,25,157,100,2804.75,10/11/2004,Resolved,4,NOVEMBER,2004,Planes,Danish Wholesale Imports,Kobenhavn,Denmark,Small
+10338,41,157,100,5624.79,22/11/04,Shipped,4,NOVEMBER,2004,Planes,Royale Belge,Charleroi,Belgium,Medium
+10351,39,157,99.52,3881.28,3/12/2004,Shipped,4,DECEMBER,2004,Planes,"Stylish Desk Decors, Co.",London,UK,Medium
+10373,28,157,57.55,1611.4,31/01/05,Shipped,1,JANUARY,2005,Planes,"Oulu Toy Supplies, Inc.",Oulu,Finland,Small
+10386,25,157,54.57,1364.25,1/3/2005,Resolved,1,MARCH,2005,Planes,Euro Shopping Channel,Madrid,Spain,Small
+10398,33,157,100,4215.09,30/03/05,Shipped,1,MARCH,2005,Planes,Reims Collectables,Reims,France,Medium
+10400,34,157,100,6433.82,1/4/2005,Shipped,2,APRIL,2005,Planes,The Sharp Gifts Warehouse,San Jose,USA,Medium
+10416,24,157,100,4352.16,10/5/2005,Shipped,2,MAY,2005,Planes,L'ordine Souveniers,Reggio Emilia,Italy,Medium
+10100,30,170,100,5151,6/1/2003,Shipped,1,JANUARY,2003,Vintage Cars,Online Diecast Creations Co.,Nashua,USA,Medium
+10110,42,170,100,6069,18/03/03,Shipped,1,MARCH,2003,Vintage Cars,"AV Stores, Co.",Manchester,UK,Medium
+10124,21,170,100,2856,21/05/03,Shipped,2,MAY,2003,Vintage Cars,Signal Gift Stores,Las Vegas,USA,Small
+10149,34,170,100,5375.4,12/9/2003,Shipped,3,SETPEMBER,2003,Vintage Cars,Signal Collectibles Ltd.,Brisbane,USA,Medium
+10162,29,170,100,5176.5,18/10/03,Shipped,4,OCTOBER,2003,Vintage Cars,Corporate Gift Ideas Co.,San Francisco,USA,Medium
+10173,24,170,100,3508.8,5/11/2003,Shipped,4,NOVEMBER,2003,Vintage Cars,Rovelli Gifts,Bergamo,Italy,Medium
+10182,44,170,100,7554.8,12/11/2003,Shipped,4,NOVEMBER,2003,Vintage Cars,Mini Gifts Distributors Ltd.,San Rafael,USA,Large
+10193,21,170,100,3141.6,21/11/03,Shipped,4,NOVEMBER,2003,Vintage Cars,"Australian Collectables, Ltd",Glen Waverly,Australia,Medium
+10204,33,170,100,5890.5,2/12/2003,Shipped,4,DECEMBER,2003,Vintage Cars,Muscle Machine Inc,NYC,USA,Medium
+10214,30,170,100,5967,26/01/04,Shipped,1,JANUARY,2004,Vintage Cars,"Corrida Auto Replicas, Ltd",Madrid,Spain,Medium
+10227,26,170,100,3712.8,2/3/2004,Shipped,1,MARCH,2004,Vintage Cars,"Saveley & Henriot, Co.",Lyon,France,Medium
+10241,41,170,100,7597.3,13/04/04,Shipped,2,APRIL,2004,Vintage Cars,Mini Caravy,Strasbourg,France,Large
+10280,26,170,100,3668.6,17/08/04,Shipped,3,AUGUST,2004,Vintage Cars,Amica Models & Co.,Torino,Italy,Medium
+10288,32,170,100,5875.2,1/9/2004,Shipped,3,SETPEMBER,2004,Vintage Cars,Handji Gifts& Co,Singapore,Singapore,Medium
+10302,43,170,100,7310,6/10/2003,Shipped,4,OCTOBER,2003,Vintage Cars,"UK Collectables, Ltd.",Liverpool,UK,Large
+10312,48,170,100,8078.4,21/10/04,Shipped,4,OCTOBER,2004,Vintage Cars,Mini Gifts Distributors Ltd.,San Rafael,USA,Large
+10331,44,170,74.04,3257.76,17/11/04,Shipped,4,NOVEMBER,2004,Vintage Cars,Motor Mint Distributors Inc.,Philadelphia,USA,Medium
+10344,45,170,100,7650,25/11/04,Shipped,4,NOVEMBER,2004,Vintage Cars,Marseille Mini Autos,Marseille,France,Large
+10367,37,170,100,4703.81,12/1/2005,Resolved,1,JANUARY,2005,Vintage Cars,Toys4GrownUps.com,Pasadena,USA,Medium
+10379,39,170,100,5399.55,10/2/2005,Shipped,1,FEBRUARY,2005,Vintage Cars,Euro Shopping Channel,Madrid,Spain,Medium
+10407,76,170,100,14082.8,22/04/05,On Hold,2,APRIL,2005,Vintage Cars,The Sharp Gifts Warehouse,San Jose,USA,Large
+10420,37,170,100,5283.6,29/05/05,In Process,2,MAY,2005,Vintage Cars,Souveniers And Things Co.,Chatswood,Australia,Medium
+10108,38,77,82.39,3130.82,3/3/2003,Shipped,1,MARCH,2003,Classic Cars,Cruz & Sons Co.,Makati City,Philippines,Medium
+10122,43,77,72.38,3112.34,8/5/2003,Shipped,2,MAY,2003,Classic Cars,Marseille Mini Autos,Marseille,France,Medium
+10135,48,77,79.31,3806.88,2/7/2003,Shipped,3,JULY,2003,Classic Cars,Mini Gifts Distributors Ltd.,San Rafael,USA,Medium
+10147,26,77,82.39,2142.14,5/9/2003,Shipped,3,SETPEMBER,2003,Classic Cars,Collectables For Less Inc.,Brickhaven,USA,Small
+10160,38,77,88.55,3364.9,11/10/2003,Shipped,4,OCTOBER,2003,Classic Cars,"Men 'R' US Retailers, Ltd.",Los Angeles,USA,Medium
+10170,20,77,63.14,1262.8,4/11/2003,Shipped,4,NOVEMBER,2003,Classic Cars,Mini Auto Werke,Graz,Austria,Small
+10181,22,77,73.92,1626.24,12/11/2003,Shipped,4,NOVEMBER,2003,Classic Cars,Herkku Gifts,Bergen,Norway,Small
+10192,45,77,90.86,4088.7,20/11/03,Shipped,4,NOVEMBER,2003,Classic Cars,Online Diecast Creations Co.,Nashua,USA,Medium
+10203,45,77,85.47,3846.15,2/12/2003,Shipped,4,DECEMBER,2003,Classic Cars,Euro Shopping Channel,Madrid,Spain,Medium
+10212,20,77,66.99,1339.8,16/01/04,Shipped,1,JANUARY,2004,Classic Cars,Euro Shopping Channel,Madrid,Spain,Small
+10225,47,77,64.68,3039.96,22/02/04,Shipped,1,FEBRUARY,2004,Classic Cars,"Vida Sport, Ltd",Gensve,Switzerland,Medium
+10239,46,77,73.92,3400.32,12/4/2004,Shipped,2,APRIL,2004,Classic Cars,"Oulu Toy Supplies, Inc.",Oulu,Finland,Medium
+10253,23,77,83.93,1930.39,1/6/2004,Cancelled,2,JUNE,2004,Classic Cars,"UK Collectables, Ltd.",Liverpool,UK,Small
+10266,33,77,74.69,2464.77,6/7/2004,Shipped,3,JULY,2004,Classic Cars,L'ordine Souveniers,Reggio Emilia,Italy,Small
+10278,29,77,90.86,2634.94,6/8/2004,Shipped,3,AUGUST,2004,Classic Cars,Signal Gift Stores,Las Vegas,USA,Small
+10287,44,77,82.39,3625.16,30/08/04,Shipped,3,AUGUST,2004,Classic Cars,"Vida Sport, Ltd",Gensve,Switzerland,Medium
+10300,41,77,92.4,3788.4,4/10/2003,Shipped,4,OCTOBER,2003,Classic Cars,"Blauer See Auto, Co.",Frankfurt,Germany,Medium
+10310,20,77,91.63,1832.6,16/10/04,Shipped,4,OCTOBER,2004,Classic Cars,"Toms Spezialitten, Ltd",Koln,Germany,Small
+10321,37,77,78.54,2905.98,4/11/2004,Shipped,4,NOVEMBER,2004,Classic Cars,FunGiftIdeas.com,New Bedford,USA,Small
+10329,29,77,100,2954.81,15/11/04,Shipped,4,NOVEMBER,2004,Classic Cars,Land of Toys Inc.,NYC,USA,Small
+10342,55,77,65.45,3599.75,24/11/04,Shipped,4,NOVEMBER,2004,Classic Cars,"Australian Collectors, Co.",Melbourne,Australia,Medium
+10363,22,77,100,3686.54,6/1/2005,Shipped,1,JANUARY,2005,Classic Cars,Suominen Souveniers,Espoo,Finland,Medium
+10377,31,77,67.76,2100.56,9/2/2005,Shipped,1,FEBRUARY,2005,Classic Cars,"Toys of Finland, Co.",Helsinki,Finland,Small
+10389,49,77,79.22,3881.78,3/3/2005,Shipped,1,MARCH,2005,Classic Cars,Scandinavian Gift Ideas,Boras,Sweden,Medium
+10405,61,77,73.92,4509.12,14/04/05,Shipped,2,APRIL,2005,Classic Cars,Mini Caravy,Strasbourg,France,Medium
+10419,39,77,83.93,3273.27,17/05/05,Shipped,2,MAY,2005,Classic Cars,Salzburg Collectables,Salzburg,Austria,Medium
+10109,38,142,100,4432.7,10/3/2003,Shipped,1,MARCH,2003,Classic Cars,Motor Mint Distributors Inc.,Philadelphia,USA,Medium
+10122,31,142,100,4100.99,8/5/2003,Shipped,2,MAY,2003,Classic Cars,Marseille Mini Autos,Marseille,France,Medium
+10136,36,142,100,5274.72,4/7/2003,Shipped,3,JULY,2003,Classic Cars,Alpha Cognac,Toulouse,France,Medium
+10148,25,142,100,4232,11/9/2003,Shipped,3,SETPEMBER,2003,Classic Cars,"Anna's Decorations, Ltd",North Sydney,Australia,Medium
+10161,48,142,100,6145.44,17/10/03,Shipped,4,OCTOBER,2003,Classic Cars,Heintze Collectables,Aaarhus,Denmark,Medium
+10171,35,142,100,4680.2,5/11/2003,Shipped,4,NOVEMBER,2003,Classic Cars,Quebec Home Shopping Network,Montreal,Canada,Medium
+10181,21,142,100,3286.08,12/11/2003,Shipped,4,NOVEMBER,2003,Classic Cars,Herkku Gifts,Bergen,Norway,Medium
+10192,47,142,100,7421.3,20/11/03,Shipped,4,NOVEMBER,2003,Classic Cars,Online Diecast Creations Co.,Nashua,USA,Large
+10204,38,142,100,6432.64,2/12/2003,Shipped,4,DECEMBER,2003,Classic Cars,Muscle Machine Inc,NYC,USA,Medium
+10212,41,142,100,4840.87,16/01/04,Shipped,1,JANUARY,2004,Classic Cars,Euro Shopping Channel,Madrid,Spain,Medium
+10226,24,142,100,3892.08,26/02/04,Shipped,1,FEBRUARY,2004,Classic Cars,Collectable Mini Designs Co.,San Diego,USA,Medium
+10240,37,142,100,5526.32,13/04/04,Shipped,2,APRIL,2004,Classic Cars,Osaka Souveniers Co.,Osaka,Japan,Medium
+10253,33,142,100,4459.62,1/6/2004,Cancelled,2,JUNE,2004,Classic Cars,"UK Collectables, Ltd.",Liverpool,UK,Medium
+10266,49,142,100,6203.4,6/7/2004,Shipped,3,JULY,2004,Classic Cars,L'ordine Souveniers,Reggio Emilia,Italy,Medium
+10278,29,142,100,3754.05,6/8/2004,Shipped,3,AUGUST,2004,Classic Cars,Signal Gift Stores,Las Vegas,USA,Medium
+10287,24,142,100,3516.48,30/08/04,Shipped,3,AUGUST,2004,Classic Cars,"Vida Sport, Ltd",Gensve,Switzerland,Medium
+10301,47,142,100,7488.04,5/10/2003,Shipped,4,OCTOBER,2003,Classic Cars,"Norway Gifts By Mail, Co.",Oslo,Norway,Large
+10310,24,142,100,3448.08,16/10/04,Shipped,4,OCTOBER,2004,Classic Cars,"Toms Spezialitten, Ltd",Koln,Germany,Medium
+10321,25,142,100,3734,4/11/2004,Shipped,4,NOVEMBER,2004,Classic Cars,FunGiftIdeas.com,New Bedford,USA,Medium
+10331,30,142,32.47,974.1,17/11/04,Shipped,4,NOVEMBER,2004,Classic Cars,Motor Mint Distributors Inc.,Philadelphia,USA,Small
+10342,22,142,100,3160.74,24/11/04,Shipped,4,NOVEMBER,2004,Classic Cars,"Australian Collectors, Co.",Melbourne,Australia,Medium
+10356,27,142,64.69,1746.63,9/12/2004,Shipped,4,DECEMBER,2004,Classic Cars,Lyon Souveniers,Paris,France,Small
+10366,34,142,100,4207.84,10/1/2005,Shipped,1,JANUARY,2005,Classic Cars,Royale Belge,Charleroi,Belgium,Medium
+10377,36,142,100,4352.76,9/2/2005,Shipped,1,FEBRUARY,2005,Classic Cars,"Toys of Finland, Co.",Helsinki,Finland,Medium
+10390,34,142,43.05,1463.7,4/3/2005,Shipped,1,MARCH,2005,Classic Cars,Mini Gifts Distributors Ltd.,San Rafael,USA,Small
+10406,48,142,100,7169.28,15/04/05,Disputed,2,APRIL,2005,Classic Cars,Danish Wholesale Imports,Kobenhavn,Denmark,Large
+10419,34,142,100,4594.76,17/05/05,Shipped,2,MAY,2005,Classic Cars,Salzburg Collectables,Salzburg,Austria,Medium
+10104,24,163,100,3457.92,31/01/03,Shipped,1,JANUARY,2003,Classic Cars,Euro Shopping Channel,Madrid,Spain,Medium
+10115,46,163,100,7381.16,4/4/2003,Shipped,2,APRIL,2003,Classic Cars,Classic Legends Inc.,NYC,USA,Large
+10127,45,163,100,7146.9,3/6/2003,Shipped,2,JUNE,2003,Classic Cars,Muscle Machine Inc,NYC,USA,Large
+10141,39,163,100,5938.53,1/8/2003,Shipped,3,AUGUST,2003,Classic Cars,Suominen Souveniers,Espoo,Finland,Medium
+10151,43,163,100,7110.91,21/09/03,Shipped,3,SETPEMBER,2003,Classic Cars,"Oulu Toy Supplies, Inc.",Oulu,Finland,Large
+10165,29,163,100,5032.95,22/10/03,Shipped,4,OCTOBER,2003,Classic Cars,"Dragon Souveniers, Ltd.",Singapore,Singapore,Medium
+10176,20,163,100,3667.6,6/11/2003,Shipped,4,NOVEMBER,2003,Classic Cars,L'ordine Souveniers,Reggio Emilia,Italy,Medium
+10184,46,163,100,7381.16,14/11/03,Shipped,4,NOVEMBER,2003,Classic Cars,"Iberia Gift Imports, Corp.",Sevilla,Spain,Large
+10195,27,163,100,5128.11,25/11/03,Shipped,4,NOVEMBER,2003,Classic Cars,Mini Classics,White Plains,USA,Medium
+10207,44,163,100,7060.24,9/12/2003,Shipped,4,DECEMBER,2003,Classic Cars,Diecast Collectables,Boston,USA,Large
+10219,43,163,100,8448.64,10/2/2004,Shipped,1,FEBRUARY,2004,Classic Cars,Signal Collectibles Ltd.,Brisbane,USA,Large
+10230,49,163,100,7300.51,15/03/04,Shipped,1,MARCH,2004,Classic Cars,"Blauer See Auto, Co.",Frankfurt,Germany,Large
+10246,40,163,100,6549.2,5/5/2004,Shipped,2,MAY,2004,Classic Cars,Euro Shopping Channel,Madrid,Spain,Medium
+10259,30,163,100,5697.9,15/06/04,Shipped,2,JUNE,2004,Classic Cars,Handji Gifts& Co,Singapore,Singapore,Medium
+10271,50,163,100,9169,20/07/04,Shipped,3,JULY,2004,Classic Cars,Mini Gifts Distributors Ltd.,San Rafael,USA,Large
+10282,23,163,100,3238.63,20/08/04,Shipped,3,AUGUST,2004,Classic Cars,Mini Gifts Distributors Ltd.,San Rafael,USA,Medium
+10292,26,163,100,4554.94,8/9/2004,Shipped,3,SETPEMBER,2004,Classic Cars,Land of Toys Inc.,NYC,USA,Medium
+10305,27,163,100,3934.44,13/10/04,Shipped,4,OCTOBER,2004,Classic Cars,Marta's Replicas Co.,Cambridge,USA,Medium
+10314,42,163,100,5776.26,22/10/04,Shipped,4,OCTOBER,2004,Classic Cars,Heintze Collectables,Aaarhus,Denmark,Medium
+10324,47,163,100,7207.45,5/11/2004,Shipped,4,NOVEMBER,2004,Classic Cars,Vitachrome Inc.,NYC,USA,Large
+10336,49,163,100,7460.74,20/11/04,Shipped,4,NOVEMBER,2004,Classic Cars,"La Corne D'abondance, Co.",Paris,France,Large
+10349,38,163,100,6719.54,1/12/2004,Shipped,4,DECEMBER,2004,Classic Cars,Muscle Machine Inc,NYC,USA,Medium
+10358,20,163,100,2428,10/12/2004,Shipped,4,DECEMBER,2004,Classic Cars,Euro Shopping Channel,Madrid,Spain,Small
+10371,25,163,100,2602.25,23/01/05,Shipped,1,JANUARY,2005,Classic Cars,Mini Gifts Distributors Ltd.,San Rafael,USA,Small
+10382,25,163,88,2200,17/02/05,Shipped,1,FEBRUARY,2005,Classic Cars,Mini Gifts Distributors Ltd.,San Rafael,USA,Small
+10412,41,163,100,6712.93,3/5/2005,Shipped,2,MAY,2005,Classic Cars,Euro Shopping Channel,Madrid,Spain,Medium
+10425,28,163,100,5318.04,31/05/05,In Process,2,MAY,2005,Classic Cars,La Rochelle Gifts,Nantes,France,Medium
+10100,50,60,67.8,3390,6/1/2003,Shipped,1,JANUARY,2003,Vintage Cars,Online Diecast Creations Co.,Nashua,USA,Medium
+10110,32,60,50.25,1608,18/03/03,Shipped,1,MARCH,2003,Vintage Cars,"AV Stores, Co.",Manchester,UK,Small
+10124,42,60,53.88,2262.96,21/05/03,Shipped,2,MAY,2003,Vintage Cars,Signal Gift Stores,Las Vegas,USA,Small
+10149,24,60,62.36,1496.64,12/9/2003,Shipped,3,SETPEMBER,2003,Vintage Cars,Signal Collectibles Ltd.,Brisbane,USA,Small
+10162,27,60,69.62,1879.74,18/10/03,Shipped,4,OCTOBER,2003,Vintage Cars,Corporate Gift Ideas Co.,San Francisco,USA,Small
+10173,26,60,57.51,1495.26,5/11/2003,Shipped,4,NOVEMBER,2003,Vintage Cars,Rovelli Gifts,Bergamo,Italy,Small
+10182,38,60,61.15,2323.7,12/11/2003,Shipped,4,NOVEMBER,2003,Vintage Cars,Mini Gifts Distributors Ltd.,San Rafael,USA,Small
+10193,42,60,59.33,2491.86,21/11/03,Shipped,4,NOVEMBER,2003,Vintage Cars,"Australian Collectables, Ltd",Glen Waverly,Australia,Small
+10204,23,60,71.44,1643.12,2/12/2003,Shipped,4,DECEMBER,2003,Vintage Cars,Muscle Machine Inc,NYC,USA,Small
+10214,21,60,62.96,1322.16,26/01/04,Shipped,1,JANUARY,2004,Vintage Cars,"Corrida Auto Replicas, Ltd",Madrid,Spain,Small
+10227,28,60,50.85,1423.8,2/3/2004,Shipped,1,MARCH,2004,Vintage Cars,"Saveley & Henriot, Co.",Lyon,France,Small
+10241,33,60,72.65,2397.45,13/04/04,Shipped,2,APRIL,2004,Vintage Cars,Mini Caravy,Strasbourg,France,Small
+10280,25,60,62.96,1574,17/08/04,Shipped,3,AUGUST,2004,Vintage Cars,Amica Models & Co.,Torino,Italy,Small
+10288,28,60,61.75,1729,1/9/2004,Shipped,3,SETPEMBER,2004,Vintage Cars,Handji Gifts& Co,Singapore,Singapore,Small
+10303,46,60,49.04,2255.84,6/10/2004,Shipped,4,OCTOBER,2004,Vintage Cars,"Iberia Gift Imports, Corp.",Sevilla,Spain,Small
+10312,30,60,61.15,1834.5,21/10/04,Shipped,4,OCTOBER,2004,Vintage Cars,Mini Gifts Distributors Ltd.,San Rafael,USA,Small
+10332,38,60,84.25,3201.5,17/11/04,Shipped,4,NOVEMBER,2004,Vintage Cars,"AV Stores, Co.",Manchester,UK,Medium
+10344,40,60,56.91,2276.4,25/11/04,Shipped,4,NOVEMBER,2004,Vintage Cars,Marseille Mini Autos,Marseille,France,Small
+10367,45,60,100,8884.8,12/1/2005,Resolved,1,JANUARY,2005,Vintage Cars,Toys4GrownUps.com,Pasadena,USA,Large
+10379,27,60,49.3,1331.1,10/2/2005,Shipped,1,FEBRUARY,2005,Vintage Cars,Euro Shopping Channel,Madrid,Spain,Small
+10407,42,60,72.65,3051.3,22/04/05,On Hold,2,APRIL,2005,Vintage Cars,The Sharp Gifts Warehouse,San Jose,USA,Medium
+10420,36,60,63.57,2288.52,29/05/05,In Process,2,MAY,2005,Vintage Cars,Souveniers And Things Co.,Chatswood,Australia,Small
+10104,29,122,100,3772.61,31/01/03,Shipped,1,JANUARY,2003,Trucks and Buses,Euro Shopping Channel,Madrid,Spain,Medium
+10114,39,122,100,4164.42,1/4/2003,Shipped,2,APRIL,2003,Trucks and Buses,"La Corne D'abondance, Co.",Paris,France,Medium
+10127,45,122,100,6295.95,3/6/2003,Shipped,2,JUNE,2003,Trucks and Buses,Muscle Machine Inc,NYC,USA,Medium
+10141,47,122,100,6287.66,1/8/2003,Shipped,3,AUGUST,2003,Trucks and Buses,Suominen Souveniers,Espoo,Finland,Medium
+10151,49,122,100,5412.54,21/09/03,Shipped,3,SETPEMBER,2003,Trucks and Buses,"Oulu Toy Supplies, Inc.",Oulu,Finland,Medium
+10165,46,122,100,5984.14,22/10/03,Shipped,4,OCTOBER,2003,Trucks and Buses,"Dragon Souveniers, Ltd.",Singapore,Singapore,Medium
+10175,48,122,100,5891.04,6/11/2003,Shipped,4,NOVEMBER,2003,Trucks and Buses,"Stylish Desk Decors, Co.",London,UK,Medium
+10184,46,122,100,5984.14,14/11/03,Shipped,4,NOVEMBER,2003,Trucks and Buses,"Iberia Gift Imports, Corp.",Sevilla,Spain,Medium
+10195,35,122,100,3608.15,25/11/03,Shipped,4,NOVEMBER,2003,Trucks and Buses,Mini Classics,White Plains,USA,Medium
+10207,43,122,100,5752.54,9/12/2003,Shipped,4,DECEMBER,2003,Trucks and Buses,Diecast Collectables,Boston,USA,Medium
+10229,26,122,100,3765.32,11/3/2004,Shipped,1,MARCH,2004,Trucks and Buses,Mini Gifts Distributors Ltd.,San Rafael,USA,Medium
+10246,22,122,98.18,2159.96,5/5/2004,Shipped,2,MAY,2004,Trucks and Buses,Euro Shopping Channel,Madrid,Spain,Small
+10259,34,122,99.41,3379.94,15/06/04,Shipped,2,JUNE,2004,Trucks and Buses,Handji Gifts& Co,Singapore,Singapore,Medium
+10271,50,122,100,5093.5,20/07/04,Shipped,3,JULY,2004,Trucks and Buses,Mini Gifts Distributors Ltd.,San Rafael,USA,Medium
+10281,48,122,100,5773.44,19/08/04,Shipped,3,AUGUST,2004,Trucks and Buses,Diecast Classics Inc.,Allentown,USA,Medium
+10292,41,122,100,4528.86,8/9/2004,Shipped,3,SETPEMBER,2004,Trucks and Buses,Land of Toys Inc.,NYC,USA,Medium
+10305,36,122,100,4816.08,13/10/04,Shipped,4,OCTOBER,2004,Trucks and Buses,Marta's Replicas Co.,Cambridge,USA,Medium
+10313,29,122,100,3416.78,22/10/04,Shipped,4,OCTOBER,2004,Trucks and Buses,Canadian Gift Exchange Network,Vancouver,Canada,Medium
+10324,33,122,37.48,1236.84,5/11/2004,Shipped,4,NOVEMBER,2004,Trucks and Buses,Vitachrome Inc.,NYC,USA,Small
+10334,46,122,100,5814.86,19/11/04,On Hold,4,NOVEMBER,2004,Trucks and Buses,"Volvo Model Replicas, Co",Lule,Sweden,Medium
+10349,38,122,100,5223.48,1/12/2004,Shipped,4,DECEMBER,2004,Trucks and Buses,Muscle Machine Inc,NYC,USA,Medium
+10358,20,122,36.42,728.4,10/12/2004,Shipped,4,DECEMBER,2004,Trucks and Buses,Euro Shopping Channel,Madrid,Spain,Small
+10370,22,122,100,3949,20/01/05,Shipped,1,JANUARY,2005,Trucks and Buses,"Anna's Decorations, Ltd",North Sydney,Australia,Medium
+10383,27,122,100,3843.99,22/02/05,Shipped,1,FEBRUARY,2005,Trucks and Buses,Euro Shopping Channel,Madrid,Spain,Medium
+10412,56,122,98.18,5498.08,3/5/2005,Shipped,2,MAY,2005,Trucks and Buses,Euro Shopping Channel,Madrid,Spain,Medium
+10425,38,122,99.41,3777.58,31/05/05,In Process,2,MAY,2005,Trucks and Buses,La Rochelle Gifts,Nantes,France,Medium
+10101,25,127,100,3782,9/1/2003,Shipped,1,JANUARY,2003,Vintage Cars,"Blauer See Auto, Co.",Frankfurt,Germany,Medium
+10110,33,127,100,3859.68,18/03/03,Shipped,1,MARCH,2003,Vintage Cars,"AV Stores, Co.",Manchester,UK,Medium
+10124,42,127,100,4431.84,21/05/03,Shipped,2,MAY,2003,Vintage Cars,Signal Gift Stores,Las Vegas,USA,Medium
+10149,33,127,100,4950.33,12/9/2003,Shipped,3,SETPEMBER,2003,Vintage Cars,Signal Collectibles Ltd.,Brisbane,USA,Medium
+10162,38,127,100,4299.7,18/10/03,Shipped,4,OCTOBER,2003,Vintage Cars,Corporate Gift Ideas Co.,San Francisco,USA,Medium
+10173,31,127,100,4492.83,5/11/2003,Shipped,4,NOVEMBER,2003,Vintage Cars,Rovelli Gifts,Bergamo,Italy,Medium
+10182,20,127,100,2212,12/11/2003,Shipped,4,NOVEMBER,2003,Vintage Cars,Mini Gifts Distributors Ltd.,San Rafael,USA,Small
+10193,44,127,100,4642.88,21/11/03,Shipped,4,NOVEMBER,2003,Vintage Cars,"Australian Collectables, Ltd",Glen Waverly,Australia,Medium
+10204,26,127,100,3206.32,2/12/2003,Shipped,4,DECEMBER,2003,Vintage Cars,Muscle Machine Inc,NYC,USA,Medium
+10214,27,127,100,3604.23,26/01/04,Shipped,1,JANUARY,2004,Vintage Cars,"Corrida Auto Replicas, Ltd",Madrid,Spain,Medium
+10227,46,127,100,7017.76,2/3/2004,Shipped,1,MARCH,2004,Vintage Cars,"Saveley & Henriot, Co.",Lyon,France,Large
+10243,47,127,100,6154.18,26/04/04,Shipped,2,APRIL,2004,Vintage Cars,Diecast Collectables,Boston,USA,Medium
+10280,37,127,100,4750.8,17/08/04,Shipped,3,AUGUST,2004,Vintage Cars,Amica Models & Co.,Torino,Italy,Medium
+10288,31,127,100,3822.92,1/9/2004,Shipped,3,SETPEMBER,2004,Vintage Cars,Handji Gifts& Co,Singapore,Singapore,Medium
+10304,24,127,100,2440.8,11/10/2004,Shipped,4,OCTOBER,2004,Vintage Cars,Auto Assoc. & Cie.,Versailles,France,Small
+10312,31,127,100,4729.36,21/10/04,Shipped,4,OCTOBER,2004,Vintage Cars,Mini Gifts Distributors Ltd.,San Rafael,USA,Medium
+10322,50,127,100,12536.5,4/11/2004,Shipped,4,NOVEMBER,2004,Vintage Cars,Online Diecast Creations Co.,Nashua,USA,Large
+10332,35,127,64.69,2264.15,17/11/04,Shipped,4,NOVEMBER,2004,Vintage Cars,"AV Stores, Co.",Manchester,UK,Small
+10344,30,127,100,3928.2,25/11/04,Shipped,4,NOVEMBER,2004,Vintage Cars,Marseille Mini Autos,Marseille,France,Medium
+10356,29,127,100,3630.22,9/12/2004,Shipped,4,DECEMBER,2004,Vintage Cars,Lyon Souveniers,Paris,France,Medium
+10367,27,127,100,4196.07,12/1/2005,Resolved,1,JANUARY,2005,Vintage Cars,Toys4GrownUps.com,Pasadena,USA,Medium
+10380,40,127,100,4931.6,16/02/05,Shipped,1,FEBRUARY,2005,Vintage Cars,Euro Shopping Channel,Madrid,Spain,Medium
+10390,31,127,98.99,3068.69,4/3/2005,Shipped,1,MARCH,2005,Vintage Cars,Mini Gifts Distributors Ltd.,San Rafael,USA,Medium
+10409,6,127,100,785.64,23/04/05,Shipped,2,APRIL,2005,Vintage Cars,Handji Gifts& Co,Singapore,Singapore,Small
+10420,45,127,100,4977,29/05/05,In Process,2,MAY,2005,Vintage Cars,Souveniers And Things Co.,Chatswood,Australia,Medium
+10103,22,60,54.09,1189.98,29/01/03,Shipped,1,JANUARY,2003,Trucks and Buses,Baane Mini Imports,Stavern,Norway,Small
+10114,45,60,68.67,3090.15,1/4/2003,Shipped,2,APRIL,2003,Trucks and Buses,"La Corne D'abondance, Co.",Paris,France,Medium
+10126,43,60,65.02,2795.86,28/05/03,Shipped,2,MAY,2003,Trucks and Buses,"Corrida Auto Replicas, Ltd",Madrid,Spain,Small
+10140,46,60,61.99,2851.54,24/07/03,Shipped,3,JULY,2003,Trucks and Buses,Technics Stores Inc.,Burlingame,USA,Small
+10151,39,60,69.28,2701.92,21/09/03,Shipped,3,SETPEMBER,2003,Trucks and Buses,"Oulu Toy Supplies, Inc.",Oulu,Finland,Small
+10165,31,60,71.1,2204.1,22/10/03,Shipped,4,OCTOBER,2003,Trucks and Buses,"Dragon Souveniers, Ltd.",Singapore,Singapore,Small
+10175,41,60,69.28,2840.48,6/11/2003,Shipped,4,NOVEMBER,2003,Trucks and Buses,"Stylish Desk Decors, Co.",London,UK,Small
+10184,44,60,60.16,2647.04,14/11/03,Shipped,4,NOVEMBER,2003,Trucks and Buses,"Iberia Gift Imports, Corp.",Sevilla,Spain,Small
+10194,45,60,70.49,3172.05,25/11/03,Shipped,4,NOVEMBER,2003,Trucks and Buses,"Saveley & Henriot, Co.",Lyon,France,Medium
+10207,37,60,69.89,2585.93,9/12/2003,Shipped,4,DECEMBER,2003,Trucks and Buses,Diecast Collectables,Boston,USA,Small
+10217,35,60,61.38,2148.3,4/2/2004,Shipped,1,FEBRUARY,2004,Trucks and Buses,Handji Gifts& Co,Singapore,Singapore,Small
+10229,28,60,59.55,1667.4,11/3/2004,Shipped,1,MARCH,2004,Trucks and Buses,Mini Gifts Distributors Ltd.,San Rafael,USA,Small
+10246,30,60,61.99,1859.7,5/5/2004,Shipped,2,MAY,2004,Trucks and Buses,Euro Shopping Channel,Madrid,Spain,Small
+10259,30,60,49.22,1476.6,15/06/04,Shipped,2,JUNE,2004,Trucks and Buses,Handji Gifts& Co,Singapore,Singapore,Small
+10271,25,60,69.28,1732,20/07/04,Shipped,3,JULY,2004,Trucks and Buses,Mini Gifts Distributors Ltd.,San Rafael,USA,Small
+10281,29,60,57.73,1674.17,19/08/04,Shipped,3,AUGUST,2004,Trucks and Buses,Diecast Classics Inc.,Allentown,USA,Small
+10291,26,60,57.73,1500.98,8/9/2004,Shipped,3,SETPEMBER,2004,Trucks and Buses,Scandinavian Gift Ideas,Boras,Sweden,Small
+10305,41,60,53.48,2192.68,13/10/04,Shipped,4,OCTOBER,2004,Trucks and Buses,Marta's Replicas Co.,Cambridge,USA,Small
+10313,34,60,52.87,1797.58,22/10/04,Shipped,4,OCTOBER,2004,Trucks and Buses,Canadian Gift Exchange Network,Vancouver,Canada,Small
+10322,35,60,61.21,2142.35,4/11/2004,Shipped,4,NOVEMBER,2004,Trucks and Buses,Online Diecast Creations Co.,Nashua,USA,Small
+10334,34,60,61.38,2086.92,19/11/04,On Hold,4,NOVEMBER,2004,Trucks and Buses,"Volvo Model Replicas, Co",Lule,Sweden,Small
+10347,50,60,100,6834.5,29/11/04,Shipped,4,NOVEMBER,2004,Trucks and Buses,"Australian Collectors, Co.",Melbourne,Australia,Medium
+10357,41,60,61.99,2541.59,10/12/2004,Shipped,4,DECEMBER,2004,Trucks and Buses,Mini Gifts Distributors Ltd.,San Rafael,USA,Small
+10370,22,60,96.86,2130.92,20/01/05,Shipped,1,JANUARY,2005,Trucks and Buses,"Anna's Decorations, Ltd",North Sydney,Australia,Small
+10381,35,60,48.62,1701.7,17/02/05,Shipped,1,FEBRUARY,2005,Trucks and Buses,Corporate Gift Ideas Co.,San Francisco,USA,Small
+10391,44,60,38.5,1694,9/3/2005,Shipped,1,MARCH,2005,Trucks and Buses,"Anna's Decorations, Ltd",North Sydney,Australia,Small
+10412,47,60,61.99,2913.53,3/5/2005,Shipped,2,MAY,2005,Trucks and Buses,Euro Shopping Channel,Madrid,Spain,Small
+10425,19,60,49.22,935.18,31/05/05,In Process,2,MAY,2005,Trucks and Buses,La Rochelle Gifts,Nantes,France,Small
+10106,34,84,90.39,3073.26,17/02/03,Shipped,1,FEBRUARY,2003,Planes,Rovelli Gifts,Bergamo,Italy,Medium
+10120,29,84,71.81,2082.49,29/04/03,Shipped,2,APRIL,2003,Planes,"Australian Collectors, Co.",Melbourne,Australia,Small
+10133,49,84,69.27,3394.23,27/06/03,Shipped,2,JUNE,2003,Planes,Euro Shopping Channel,Madrid,Spain,Medium
+10145,30,84,85.32,2559.6,25/08/03,Shipped,3,AUGUST,2003,Planes,Toys4GrownUps.com,Pasadena,USA,Small
+10168,21,84,70.96,1490.16,28/10/03,Shipped,4,OCTOBER,2003,Planes,Technics Stores Inc.,Burlingame,USA,Small
+10210,50,84,76.88,3844,12/1/2004,Shipped,1,JANUARY,2004,Planes,Osaka Souveniers Co.,Osaka,Japan,Medium
+10223,47,84,100,4724.91,20/02/04,Shipped,1,FEBRUARY,2004,Planes,"Australian Collectors, Co.",Melbourne,Australia,Medium
+10235,24,84,76.03,1824.72,2/4/2004,Shipped,2,APRIL,2004,Planes,"Royal Canadian Collectables, Ltd.",Tsawassen,Canada,Small
+10250,27,84,98.84,2668.68,11/5/2004,Shipped,2,MAY,2004,Planes,The Sharp Gifts Warehouse,San Jose,USA,Small
+10263,33,84,86.17,2843.61,28/06/04,Shipped,2,JUNE,2004,Planes,Gift Depot Inc.,Bridgewater,USA,Small
+10275,35,84,90.39,3163.65,23/07/04,Shipped,3,JULY,2004,Planes,La Rochelle Gifts,Nantes,France,Medium
+10284,31,84,71.81,2226.11,21/08/04,Shipped,3,AUGUST,2004,Planes,"Norway Gifts By Mail, Co.",Oslo,Norway,Small
+10297,25,84,82.79,2069.75,16/09/04,Shipped,3,SETPEMBER,2004,Planes,"Clover Collections, Co.",Dublin,Ireland,Small
+10308,27,84,82.79,2235.33,15/10/04,Shipped,4,OCTOBER,2004,Planes,Mini Classics,White Plains,USA,Small
+10318,31,84,100,3116.43,2/11/2004,Shipped,4,NOVEMBER,2004,Planes,Diecast Classics Inc.,Allentown,USA,Medium
+10327,45,84,100,4781.7,10/11/2004,Resolved,4,NOVEMBER,2004,Planes,Danish Wholesale Imports,Kobenhavn,Denmark,Medium
+10339,27,84,100,2810.7,23/11/04,Shipped,4,NOVEMBER,2004,Planes,"Tokyo Collectables, Ltd",Minato-ku,Japan,Small
+10353,27,84,100,3515.67,4/12/2004,Shipped,4,DECEMBER,2004,Planes,Gift Ideas Corp.,Glendale,USA,Medium
+10374,42,84,69.27,2909.34,2/2/2005,Shipped,1,FEBRUARY,2005,Planes,"Australian Gift Network, Co",South Brisbane,Australia,Small
+10386,21,84,74.77,1570.17,1/3/2005,Resolved,1,MARCH,2005,Planes,Euro Shopping Channel,Madrid,Spain,Small
+10398,34,84,76.88,2613.92,30/03/05,Shipped,1,MARCH,2005,Planes,Reims Collectables,Reims,France,Small
+10401,42,84,76.03,3193.26,3/4/2005,On Hold,2,APRIL,2005,Planes,Tekni Collectables Inc.,Newark,USA,Medium
+10416,15,84,98.84,1482.6,10/5/2005,Shipped,2,MAY,2005,Planes,L'ordine Souveniers,Reggio Emilia,Italy,Small
+10107,29,60,70.87,2055.23,24/02/03,Shipped,1,FEBRUARY,2003,Motorcycles,Land of Toys Inc.,NYC,USA,Small
+10120,46,60,58.15,2674.9,29/04/03,Shipped,2,APRIL,2003,Motorcycles,"Australian Collectors, Co.",Melbourne,Australia,Small
+10134,30,60,61.78,1853.4,1/7/2003,Shipped,3,JULY,2003,Motorcycles,Lyon Souveniers,Paris,France,Small
+10145,30,60,49.67,1490.1,25/08/03,Shipped,3,AUGUST,2003,Motorcycles,Toys4GrownUps.com,Pasadena,USA,Small
+10159,42,60,51.48,2162.16,10/10/2003,Shipped,4,OCTOBER,2003,Motorcycles,Corporate Gift Ideas Co.,San Francisco,USA,Small
+10168,46,60,61.18,2814.28,28/10/03,Shipped,4,OCTOBER,2003,Motorcycles,Technics Stores Inc.,Burlingame,USA,Small
+10180,25,60,64.2,1605,11/11/2003,Shipped,4,NOVEMBER,2003,Motorcycles,Daedalus Designs Imports,Lille,France,Small
+10188,32,60,65.42,2093.44,18/11/03,Shipped,4,NOVEMBER,2003,Motorcycles,Herkku Gifts,Bergen,Norway,Small
+10201,30,60,64.81,1944.3,1/12/2003,Shipped,4,DECEMBER,2003,Motorcycles,Mini Wheels Co.,San Francisco,USA,Small
+10210,40,60,49.67,1986.8,12/1/2004,Shipped,1,JANUARY,2004,Motorcycles,Osaka Souveniers Co.,Osaka,Japan,Small
+10223,28,60,60.57,1695.96,20/02/04,Shipped,1,FEBRUARY,2004,Motorcycles,"Australian Collectors, Co.",Melbourne,Australia,Small
+10236,23,60,55.72,1281.56,3/4/2004,Shipped,2,APRIL,2004,Motorcycles,Motor Mint Distributors Inc.,Philadelphia,USA,Small
+10251,29,60,61.18,1774.22,18/05/04,Shipped,2,MAY,2004,Motorcycles,Tekni Collectables Inc.,Newark,USA,Small
+10263,34,60,58.75,1997.5,28/06/04,Shipped,2,JUNE,2004,Motorcycles,Gift Depot Inc.,Bridgewater,USA,Small
+10275,37,60,63.6,2353.2,23/07/04,Shipped,3,JULY,2004,Motorcycles,La Rochelle Gifts,Nantes,France,Small
+10285,20,60,49.06,981.2,27/08/04,Shipped,3,AUGUST,2004,Motorcycles,Marta's Replicas Co.,Cambridge,USA,Small
+10298,32,60,48.46,1550.72,27/09/04,Shipped,3,SETPEMBER,2004,Motorcycles,Atelier graphique,Nantes,France,Small
+10308,34,60,52.09,1771.06,15/10/04,Shipped,4,OCTOBER,2004,Motorcycles,Mini Classics,White Plains,USA,Small
+10318,42,60,52.7,2213.4,2/11/2004,Shipped,4,NOVEMBER,2004,Motorcycles,Diecast Classics Inc.,Allentown,USA,Small
+10329,38,60,100,5266.04,15/11/04,Shipped,4,NOVEMBER,2004,Motorcycles,Land of Toys Inc.,NYC,USA,Medium
+10339,30,60,62.16,1864.8,23/11/04,Shipped,4,NOVEMBER,2004,Motorcycles,"Tokyo Collectables, Ltd",Minato-ku,Japan,Small
+10362,23,60,49.67,1142.41,5/1/2005,Shipped,1,JANUARY,2005,Motorcycles,Technics Stores Inc.,Burlingame,USA,Small
+10374,22,60,53.3,1172.6,2/2/2005,Shipped,1,FEBRUARY,2005,Motorcycles,"Australian Gift Network, Co",South Brisbane,Australia,Small
+10389,39,60,100,6981,3/3/2005,Shipped,1,MARCH,2005,Motorcycles,Scandinavian Gift Ideas,Boras,Sweden,Medium
+10402,55,60,55.72,3064.6,7/4/2005,Shipped,2,APRIL,2005,Motorcycles,Auto Canal Petit,Paris,France,Medium
+10417,36,60,61.18,2202.48,13/05/05,Disputed,2,MAY,2005,Motorcycles,Euro Shopping Channel,Madrid,Spain,Small
+10101,26,168,100,3773.38,9/1/2003,Shipped,1,JANUARY,2003,Vintage Cars,"Blauer See Auto, Co.",Frankfurt,Germany,Medium
+10110,31,168,100,5074.39,18/03/03,Shipped,1,MARCH,2003,Vintage Cars,"AV Stores, Co.",Manchester,UK,Medium
+10125,34,168,100,6483.46,21/05/03,Shipped,2,MAY,2003,Vintage Cars,"Australian Collectors, Co.",Melbourne,Australia,Medium
+10139,41,168,100,7956.46,16/07/03,Shipped,3,JULY,2003,Vintage Cars,Souveniers And Things Co.,Chatswood,Australia,Large
+10149,23,168,100,4230.62,12/9/2003,Shipped,3,SETPEMBER,2003,Vintage Cars,Signal Collectibles Ltd.,Brisbane,USA,Medium
+10162,48,168,100,7209.12,18/10/03,Shipped,4,OCTOBER,2003,Vintage Cars,Corporate Gift Ideas Co.,San Francisco,USA,Large
+10173,22,168,100,3452.68,5/11/2003,Shipped,4,NOVEMBER,2003,Vintage Cars,Rovelli Gifts,Bergamo,Italy,Medium
+10182,21,168,100,3047.73,12/11/2003,Shipped,4,NOVEMBER,2003,Vintage Cars,Mini Gifts Distributors Ltd.,San Rafael,USA,Medium
+10193,22,168,100,3675.32,21/11/03,Shipped,4,NOVEMBER,2003,Vintage Cars,"Australian Collectables, Ltd",Glen Waverly,Australia,Medium
+10205,40,168,100,7492.4,3/12/2003,Shipped,4,DECEMBER,2003,Vintage Cars,Euro Shopping Channel,Madrid,Spain,Large
+10214,50,168,100,9534.5,26/01/04,Shipped,1,JANUARY,2004,Vintage Cars,"Corrida Auto Replicas, Ltd",Madrid,Spain,Large
+10227,29,168,100,5579.02,2/3/2004,Shipped,1,MARCH,2004,Vintage Cars,"Saveley & Henriot, Co.",Lyon,France,Medium
+10244,43,168,100,5950.34,29/04/04,Shipped,2,APRIL,2004,Vintage Cars,Euro Shopping Channel,Madrid,Spain,Medium
+10255,24,168,100,3726,4/6/2004,Shipped,2,JUNE,2004,Vintage Cars,Mini Caravy,Strasbourg,France,Medium
+10280,22,168,100,4455,17/08/04,Shipped,3,AUGUST,2004,Vintage Cars,Amica Models & Co.,Torino,Italy,Medium
+10289,43,168,100,8272.34,3/9/2004,Shipped,3,SETPEMBER,2004,Vintage Cars,Herkku Gifts,Bergen,Norway,Large
+10304,20,168,100,3577.6,11/10/2004,Shipped,4,OCTOBER,2004,Vintage Cars,Auto Assoc. & Cie.,Versailles,France,Medium
+10312,25,168,100,3881.25,21/10/04,Shipped,4,OCTOBER,2004,Vintage Cars,Mini Gifts Distributors Ltd.,San Rafael,USA,Medium
+10322,36,168,100,5797.44,4/11/2004,Shipped,4,NOVEMBER,2004,Vintage Cars,Online Diecast Creations Co.,Nashua,USA,Medium
+10332,24,168,52.67,1264.08,17/11/04,Shipped,4,NOVEMBER,2004,Vintage Cars,"AV Stores, Co.",Manchester,UK,Small
+10347,21,168,100,4815.3,29/11/04,Shipped,4,NOVEMBER,2004,Vintage Cars,"Australian Collectors, Co.",Melbourne,Australia,Medium
+10356,30,168,100,4462.2,9/12/2004,Shipped,4,DECEMBER,2004,Vintage Cars,Lyon Souveniers,Paris,France,Medium
+10367,32,168,94.79,3033.28,12/1/2005,Resolved,1,JANUARY,2005,Vintage Cars,Toys4GrownUps.com,Pasadena,USA,Medium
+10380,21,168,47.18,990.78,16/02/05,Shipped,1,FEBRUARY,2005,Vintage Cars,Euro Shopping Channel,Madrid,Spain,Small
+10390,26,168,78.11,2030.86,4/3/2005,Shipped,1,MARCH,2005,Vintage Cars,Mini Gifts Distributors Ltd.,San Rafael,USA,Small
+10421,35,168,100,5433.75,29/05/05,In Process,2,MAY,2005,Vintage Cars,Mini Gifts Distributors Ltd.,San Rafael,USA,Medium
+10109,26,132,100,3157.44,10/3/2003,Shipped,1,MARCH,2003,Classic Cars,Motor Mint Distributors Inc.,Philadelphia,USA,Medium
+10123,46,132,100,5161.2,20/05/03,Shipped,2,MAY,2003,Classic Cars,Atelier graphique,Nantes,France,Medium
+10137,37,132,100,4346.76,10/7/2003,Shipped,3,JULY,2003,Classic Cars,Reims Collectables,Reims,France,Medium
+10148,27,132,100,3528.36,11/9/2003,Shipped,3,SETPEMBER,2003,Classic Cars,"Anna's Decorations, Ltd",North Sydney,Australia,Medium
+10161,23,132,100,3187.8,17/10/03,Shipped,4,OCTOBER,2003,Classic Cars,Heintze Collectables,Aaarhus,Denmark,Medium
+10172,39,132,100,6023.16,5/11/2003,Shipped,4,NOVEMBER,2003,Classic Cars,Gift Depot Inc.,Bridgewater,USA,Medium
+10181,27,132,100,3884.76,12/11/2003,Shipped,4,NOVEMBER,2003,Classic Cars,Herkku Gifts,Bergen,Norway,Medium
+10192,38,132,100,4965.84,20/11/03,Shipped,4,NOVEMBER,2003,Classic Cars,Online Diecast Creations Co.,Nashua,USA,Medium
+10204,27,132,100,4169.88,2/12/2003,Shipped,4,DECEMBER,2003,Classic Cars,Muscle Machine Inc,NYC,USA,Medium
+10212,40,132,100,4910.4,16/01/04,Shipped,1,JANUARY,2004,Classic Cars,Euro Shopping Channel,Madrid,Spain,Medium
+10226,24,132,100,3231.36,26/02/04,Shipped,1,FEBRUARY,2004,Classic Cars,Collectable Mini Designs Co.,San Diego,USA,Medium
+10241,44,132,100,6853.44,13/04/04,Shipped,2,APRIL,2004,Classic Cars,Mini Caravy,Strasbourg,France,Medium
+10253,37,132,100,5177.04,1/6/2004,Cancelled,2,JUNE,2004,Classic Cars,"UK Collectables, Ltd.",Liverpool,UK,Medium
+10266,20,132,100,2824.8,6/7/2004,Shipped,3,JULY,2004,Classic Cars,L'ordine Souveniers,Reggio Emilia,Italy,Small
+10278,39,132,100,4324.32,6/8/2004,Shipped,3,AUGUST,2004,Classic Cars,Signal Gift Stores,Las Vegas,USA,Medium
+10287,44,132,100,5052.96,30/08/04,Shipped,3,AUGUST,2004,Classic Cars,"Vida Sport, Ltd",Gensve,Switzerland,Medium
+10301,22,132,100,3223.44,5/10/2003,Shipped,4,OCTOBER,2003,Classic Cars,"Norway Gifts By Mail, Co.",Oslo,Norway,Medium
+10311,43,132,100,5278.68,16/10/04,Shipped,4,OCTOBER,2004,Classic Cars,Euro Shopping Channel,Madrid,Spain,Medium
+10321,27,132,100,2851.2,4/11/2004,Shipped,4,NOVEMBER,2004,Classic Cars,FunGiftIdeas.com,New Bedford,USA,Small
+10331,26,132,64.9,1687.4,17/11/04,Shipped,4,NOVEMBER,2004,Classic Cars,Motor Mint Distributors Inc.,Philadelphia,USA,Small
+10343,25,132,52.32,1308,24/11/04,Shipped,4,NOVEMBER,2004,Classic Cars,Reims Collectables,Reims,France,Small
+10366,49,132,100,6144.6,10/1/2005,Shipped,1,JANUARY,2005,Classic Cars,Royale Belge,Charleroi,Belgium,Medium
+10379,29,132,100,5127.2,10/2/2005,Shipped,1,FEBRUARY,2005,Classic Cars,Euro Shopping Channel,Madrid,Spain,Medium
+10407,41,132,100,6386.16,22/04/05,On Hold,2,APRIL,2005,Classic Cars,The Sharp Gifts Warehouse,San Jose,USA,Medium
+10419,55,132,100,7695.6,17/05/05,Shipped,2,MAY,2005,Classic Cars,Salzburg Collectables,Salzburg,Austria,Large
+10103,27,101,83.07,2242.89,29/01/03,Shipped,1,JANUARY,2003,Vintage Cars,Baane Mini Imports,Stavern,Norway,Small
+10112,23,101,100,2539.89,24/03/03,Shipped,1,MARCH,2003,Vintage Cars,"Volvo Model Replicas, Co",Lule,Sweden,Small
+10126,31,101,90.17,2795.27,28/05/03,Shipped,2,MAY,2003,Vintage Cars,"Corrida Auto Replicas, Ltd",Madrid,Spain,Small
+10139,46,101,100,5545.76,16/07/03,Shipped,3,JULY,2003,Vintage Cars,Souveniers And Things Co.,Chatswood,Australia,Medium
+10150,47,101,91.18,4285.46,19/09/03,Shipped,3,SETPEMBER,2003,Vintage Cars,"Dragon Souveniers, Ltd.",Singapore,Singapore,Medium
+10163,31,101,100,3329.09,20/10/03,Shipped,4,OCTOBER,2003,Vintage Cars,Classic Legends Inc.,NYC,USA,Medium
+10174,46,101,100,5592.22,6/11/2003,Shipped,4,NOVEMBER,2003,Vintage Cars,"Australian Gift Network, Co",South Brisbane,Australia,Medium
+10183,37,101,89.15,3298.55,13/11/03,Shipped,4,NOVEMBER,2003,Vintage Cars,"Classic Gift Ideas, Inc",Philadelphia,USA,Medium
+10193,28,101,93.21,2609.88,21/11/03,Shipped,4,NOVEMBER,2003,Vintage Cars,"Australian Collectables, Ltd",Glen Waverly,Australia,Small
+10206,37,101,90.17,3336.29,5/12/2003,Shipped,4,DECEMBER,2003,Vintage Cars,Canadian Gift Exchange Network,Vancouver,Canada,Medium
+10215,49,101,100,5510.05,29/01/04,Shipped,1,JANUARY,2004,Vintage Cars,West Coast Collectables Co.,Burbank,USA,Medium
+10228,24,101,100,2504.4,10/3/2004,Shipped,1,MARCH,2004,Vintage Cars,Cambridge Collectables Co.,Cambridge,USA,Small
+10244,30,101,100,3525.6,29/04/04,Shipped,2,APRIL,2004,Vintage Cars,Euro Shopping Channel,Madrid,Spain,Medium
+10257,50,101,88.14,4407,14/06/04,Shipped,2,JUNE,2004,Vintage Cars,The Sharp Gifts Warehouse,San Jose,USA,Medium
+10270,31,101,96.24,2983.44,19/07/04,Shipped,3,JULY,2004,Vintage Cars,Souveniers And Things Co.,Chatswood,Australia,Small
+10280,46,101,100,5126.24,17/08/04,Shipped,3,AUGUST,2004,Vintage Cars,Amica Models & Co.,Torino,Italy,Medium
+10291,47,101,100,5713.79,8/9/2004,Shipped,3,SETPEMBER,2004,Vintage Cars,Scandinavian Gift Ideas,Boras,Sweden,Medium
+10304,46,101,100,4613.8,11/10/2004,Shipped,4,OCTOBER,2004,Vintage Cars,Auto Assoc. & Cie.,Versailles,France,Medium
+10312,37,101,100,3711.1,21/10/04,Shipped,4,OCTOBER,2004,Vintage Cars,Mini Gifts Distributors Ltd.,San Rafael,USA,Medium
+10322,33,101,100,3524.73,4/11/2004,Shipped,4,NOVEMBER,2004,Vintage Cars,Online Diecast Creations Co.,Nashua,USA,Medium
+10333,31,101,90.17,2795.27,18/11/04,Shipped,4,NOVEMBER,2004,Vintage Cars,Mini Wheels Co.,San Francisco,USA,Small
+10347,48,101,100,4814.4,29/11/04,Shipped,4,NOVEMBER,2004,Vintage Cars,"Australian Collectors, Co.",Melbourne,Australia,Medium
+10357,41,101,87.13,3572.33,10/12/2004,Shipped,4,DECEMBER,2004,Vintage Cars,Mini Gifts Distributors Ltd.,San Rafael,USA,Medium
+10369,42,101,100,4581.36,20/01/05,Shipped,1,JANUARY,2005,Vintage Cars,Collectables For Less Inc.,Brickhaven,USA,Medium
+10381,41,101,100,4319.76,17/02/05,Shipped,1,FEBRUARY,2005,Vintage Cars,Corporate Gift Ideas Co.,San Francisco,USA,Medium
+10391,32,101,45.25,1448,9/3/2005,Shipped,1,MARCH,2005,Vintage Cars,"Anna's Decorations, Ltd",North Sydney,Australia,Small
+10423,10,101,88.14,881.4,30/05/05,In Process,2,MAY,2005,Vintage Cars,Petit Auto,Bruxelles,Belgium,Small
+10103,35,62,57.46,2011.1,29/01/03,Shipped,1,JANUARY,2003,Vintage Cars,Baane Mini Imports,Stavern,Norway,Small
+10111,28,62,64.33,1801.24,25/03/03,Shipped,1,MARCH,2003,Vintage Cars,Mini Wheels Co.,San Francisco,USA,Small
+10126,46,62,73.7,3390.2,28/05/03,Shipped,2,MAY,2003,Vintage Cars,"Corrida Auto Replicas, Ltd",Madrid,Spain,Medium
+10139,20,62,71.2,1424,16/07/03,Shipped,3,JULY,2003,Vintage Cars,Souveniers And Things Co.,Chatswood,Australia,Small
+10150,30,62,49.97,1499.1,19/09/03,Shipped,3,SETPEMBER,2003,Vintage Cars,"Dragon Souveniers, Ltd.",Singapore,Singapore,Small
+10163,48,62,69.96,3358.08,20/10/03,Shipped,4,OCTOBER,2003,Vintage Cars,Classic Legends Inc.,NYC,USA,Medium
+10173,28,62,53.72,1504.16,5/11/2003,Shipped,4,NOVEMBER,2003,Vintage Cars,Rovelli Gifts,Bergamo,Italy,Small
+10183,39,62,68.08,2655.12,13/11/03,Shipped,4,NOVEMBER,2003,Vintage Cars,"Classic Gift Ideas, Inc",Philadelphia,USA,Small
+10193,24,62,51.84,1244.16,21/11/03,Shipped,4,NOVEMBER,2003,Vintage Cars,"Australian Collectables, Ltd",Glen Waverly,Australia,Small
+10206,28,62,67.46,1888.88,5/12/2003,Shipped,4,DECEMBER,2003,Vintage Cars,Canadian Gift Exchange Network,Vancouver,Canada,Small
+10215,31,62,58.71,1820.01,29/01/04,Shipped,1,JANUARY,2004,Vintage Cars,West Coast Collectables Co.,Burbank,USA,Small
+10228,45,62,63.71,2866.95,10/3/2004,Shipped,1,MARCH,2004,Vintage Cars,Cambridge Collectables Co.,Cambridge,USA,Small
+10244,24,62,58.09,1394.16,29/04/04,Shipped,2,APRIL,2004,Vintage Cars,Euro Shopping Channel,Madrid,Spain,Small
+10257,49,62,53.72,2632.28,14/06/04,Shipped,2,JUNE,2004,Vintage Cars,The Sharp Gifts Warehouse,San Jose,USA,Small
+10269,32,62,63.08,2018.56,16/07/04,Shipped,3,JULY,2004,Vintage Cars,Salzburg Collectables,Salzburg,Austria,Small
+10280,43,62,68.71,2954.53,17/08/04,Shipped,3,AUGUST,2004,Vintage Cars,Amica Models & Co.,Torino,Italy,Small
+10291,37,62,50.59,1871.83,8/9/2004,Shipped,3,SETPEMBER,2004,Vintage Cars,Scandinavian Gift Ideas,Boras,Sweden,Small
+10304,24,62,64.96,1559.04,11/10/2004,Shipped,4,OCTOBER,2004,Vintage Cars,Auto Assoc. & Cie.,Versailles,France,Small
+10312,35,62,53.72,1880.2,21/10/04,Shipped,4,OCTOBER,2004,Vintage Cars,Mini Gifts Distributors Ltd.,San Rafael,USA,Small
+10322,41,62,29.87,1224.67,4/11/2004,Shipped,4,NOVEMBER,2004,Vintage Cars,Online Diecast Creations Co.,Nashua,USA,Small
+10332,26,62,100,2979.08,17/11/04,Shipped,4,NOVEMBER,2004,Vintage Cars,"AV Stores, Co.",Manchester,UK,Small
+10347,34,62,64.96,2208.64,29/11/04,Shipped,4,NOVEMBER,2004,Vintage Cars,"Australian Collectors, Co.",Melbourne,Australia,Small
+10357,49,62,70.58,3458.42,10/12/2004,Shipped,4,DECEMBER,2004,Vintage Cars,Mini Gifts Distributors Ltd.,San Rafael,USA,Medium
+10369,28,62,44.21,1237.88,20/01/05,Shipped,1,JANUARY,2005,Vintage Cars,Collectables For Less Inc.,Brickhaven,USA,Small
+10381,40,62,68.08,2723.2,17/02/05,Shipped,1,FEBRUARY,2005,Vintage Cars,Corporate Gift Ideas Co.,San Francisco,USA,Small
+10392,37,62,59.96,2218.52,10/3/2005,Shipped,1,MARCH,2005,Vintage Cars,Mini Auto Werke,Graz,Austria,Small
+10423,31,62,53.72,1665.32,30/05/05,In Process,2,MAY,2005,Vintage Cars,Petit Auto,Bruxelles,Belgium,Small
+10106,41,86,83.44,3421.04,17/02/03,Shipped,1,FEBRUARY,2003,Ships,Rovelli Gifts,Bergamo,Italy,Medium
+10119,21,86,89.46,1878.66,28/04/03,Shipped,2,APRIL,2003,Ships,Salzburg Collectables,Salzburg,Austria,Small
+10130,40,86,96.34,3853.6,16/06/03,Shipped,2,JUNE,2003,Ships,Auto-Moto Classics Inc.,Brickhaven,USA,Medium
+10143,46,86,74.84,3442.64,10/8/2003,Shipped,3,AUGUST,2003,Ships,Mini Creations Ltd.,New Bedford,USA,Medium
+10155,44,86,79.14,3482.16,6/10/2003,Shipped,4,OCTOBER,2003,Ships,"Toys of Finland, Co.",Helsinki,Finland,Medium
+10167,46,86,73.12,3363.52,23/10/03,Cancelled,4,OCTOBER,2003,Ships,Scandinavian Gift Ideas,Boras,Sweden,Medium
+10178,41,86,81.72,3350.52,8/11/2003,Shipped,4,NOVEMBER,2003,Ships,Alpha Cognac,Toulouse,France,Medium
+10186,32,86,89.46,2862.72,14/11/03,Shipped,4,NOVEMBER,2003,Ships,"Double Decker Gift Stores, Ltd",London,UK,Small
+10197,46,86,87.74,4036.04,26/11/03,Shipped,4,NOVEMBER,2003,Ships,Enaco Distributors,Barcelona,Spain,Medium
+10209,28,86,100,2817.92,9/1/2004,Shipped,1,JANUARY,2004,Ships,"Men 'R' US Retailers, Ltd.",Los Angeles,USA,Small
+10222,49,86,94.62,4636.38,19/02/04,Shipped,1,FEBRUARY,2004,Ships,Collectable Mini Designs Co.,San Diego,USA,Medium
+10248,21,86,73.98,1553.58,7/5/2004,Cancelled,2,MAY,2004,Ships,Land of Toys Inc.,NYC,USA,Small
+10262,32,86,84.3,2697.6,24/06/04,Cancelled,2,JUNE,2004,Ships,Euro Shopping Channel,Madrid,Spain,Small
+10273,34,86,98.06,3334.04,21/07/04,Shipped,3,JULY,2004,Ships,Petit Auto,Bruxelles,Belgium,Medium
+10283,21,86,98.06,2059.26,20/08/04,Shipped,3,AUGUST,2004,Ships,"Royal Canadian Collectables, Ltd.",Tsawassen,Canada,Small
+10296,21,86,96.34,2023.14,15/09/04,Shipped,3,SETPEMBER,2004,Ships,"Bavarian Collectables Imports, Co.",Munich,Germany,Small
+10307,31,86,83.44,2586.64,14/10/04,Shipped,4,OCTOBER,2004,Ships,"Classic Gift Ideas, Inc",Philadelphia,USA,Small
+10316,21,86,94.62,1987.02,1/11/2004,Shipped,4,NOVEMBER,2004,Ships,giftsbymail.co.uk,Cowes,UK,Small
+10327,25,86,45.86,1146.5,10/11/2004,Resolved,4,NOVEMBER,2004,Ships,Danish Wholesale Imports,Kobenhavn,Denmark,Small
+10338,28,86,82.58,2312.24,22/11/04,Shipped,4,NOVEMBER,2004,Ships,Royale Belge,Charleroi,Belgium,Small
+10350,43,86,64.97,2793.71,2/12/2004,Shipped,4,DECEMBER,2004,Ships,Euro Shopping Channel,Madrid,Spain,Small
+10373,22,86,86.74,1908.28,31/01/05,Shipped,1,JANUARY,2005,Ships,"Oulu Toy Supplies, Inc.",Oulu,Finland,Small
+10386,37,86,93.01,3441.37,1/3/2005,Resolved,1,MARCH,2005,Ships,Euro Shopping Channel,Madrid,Spain,Medium
+10398,28,86,72.26,2023.28,30/03/05,Shipped,1,MARCH,2005,Ships,Reims Collectables,Reims,France,Small
+10400,30,86,74.84,2245.2,1/4/2005,Shipped,2,APRIL,2005,Ships,The Sharp Gifts Warehouse,San Jose,USA,Small
+10414,44,86,73.98,3255.12,6/5/2005,On Hold,2,MAY,2005,Ships,Gifts4AllAges.com,Boston,USA,Medium
+10103,25,104,100,2539.5,29/01/03,Shipped,1,JANUARY,2003,Vintage Cars,Baane Mini Imports,Stavern,Norway,Small
+10111,43,104,100,4818.15,25/03/03,Shipped,1,MARCH,2003,Vintage Cars,Mini Wheels Co.,San Francisco,USA,Medium
+10126,30,104,97.39,2921.7,28/05/03,Shipped,2,MAY,2003,Vintage Cars,"Corrida Auto Replicas, Ltd",Madrid,Spain,Small
+10139,20,104,90.06,1801.2,16/07/03,Shipped,3,JULY,2003,Vintage Cars,Souveniers And Things Co.,Chatswood,Australia,Small
+10150,26,104,100,2804.36,19/09/03,Shipped,3,SETPEMBER,2003,Vintage Cars,"Dragon Souveniers, Ltd.",Singapore,Singapore,Small
+10163,40,104,100,4900.8,20/10/03,Shipped,4,OCTOBER,2003,Vintage Cars,Classic Legends Inc.,NYC,USA,Medium
+10173,31,104,89.01,2759.31,5/11/2003,Shipped,4,NOVEMBER,2003,Vintage Cars,Rovelli Gifts,Bergamo,Italy,Small
+10183,22,104,100,2488.2,13/11/03,Shipped,4,NOVEMBER,2003,Vintage Cars,"Classic Gift Ideas, Inc",Philadelphia,USA,Small
+10193,23,104,100,2769.89,21/11/03,Shipped,4,NOVEMBER,2003,Vintage Cars,"Australian Collectables, Ltd",Glen Waverly,Australia,Small
+10206,30,104,100,3581.4,5/12/2003,Shipped,4,DECEMBER,2003,Vintage Cars,Canadian Gift Exchange Network,Vancouver,Canada,Medium
+10215,49,104,100,5285.14,29/01/04,Shipped,1,JANUARY,2004,Vintage Cars,West Coast Collectables Co.,Burbank,USA,Medium
+10228,31,104,100,3181.53,10/3/2004,Shipped,1,MARCH,2004,Vintage Cars,Cambridge Collectables Co.,Cambridge,USA,Medium
+10244,29,104,100,3340.51,29/04/04,Shipped,2,APRIL,2004,Vintage Cars,Euro Shopping Channel,Madrid,Spain,Medium
+10257,37,104,84.82,3138.34,14/06/04,Shipped,2,JUNE,2004,Vintage Cars,The Sharp Gifts Warehouse,San Jose,USA,Medium
+10270,38,104,100,4775.08,19/07/04,Shipped,3,JULY,2004,Vintage Cars,Souveniers And Things Co.,Chatswood,Australia,Medium
+10280,29,104,100,3006.43,17/08/04,Shipped,3,AUGUST,2004,Vintage Cars,Amica Models & Co.,Torino,Italy,Medium
+10291,23,104,100,2866.26,8/9/2004,Shipped,3,SETPEMBER,2004,Vintage Cars,Scandinavian Gift Ideas,Boras,Sweden,Small
+10304,26,104,85.87,2232.62,11/10/2004,Shipped,4,OCTOBER,2004,Vintage Cars,Auto Assoc. & Cie.,Versailles,France,Small
+10312,38,104,100,4457.02,21/10/04,Shipped,4,OCTOBER,2004,Vintage Cars,Mini Gifts Distributors Ltd.,San Rafael,USA,Medium
+10322,48,104,47.04,2257.92,4/11/2004,Shipped,4,NOVEMBER,2004,Vintage Cars,Online Diecast Creations Co.,Nashua,USA,Small
+10332,40,104,39.8,1592,17/11/04,Shipped,4,NOVEMBER,2004,Vintage Cars,"AV Stores, Co.",Manchester,UK,Small
+10347,45,104,100,4948.2,29/11/04,Shipped,4,NOVEMBER,2004,Vintage Cars,"Australian Collectors, Co.",Melbourne,Australia,Medium
+10357,44,104,100,5160.76,10/12/2004,Shipped,4,DECEMBER,2004,Vintage Cars,Mini Gifts Distributors Ltd.,San Rafael,USA,Medium
+10369,21,104,94.22,1978.62,20/01/05,Shipped,1,JANUARY,2005,Vintage Cars,Collectables For Less Inc.,Brickhaven,USA,Small
+10381,35,104,100,4288.2,17/02/05,Shipped,1,FEBRUARY,2005,Vintage Cars,Corporate Gift Ideas Co.,San Francisco,USA,Medium
+10392,29,104,86.92,2520.68,10/3/2005,Shipped,1,MARCH,2005,Vintage Cars,Mini Auto Werke,Graz,Austria,Small
+10423,21,104,84.82,1781.22,30/05/05,In Process,2,MAY,2005,Vintage Cars,Petit Auto,Bruxelles,Belgium,Small
+10105,22,136,100,3065.04,11/2/2003,Shipped,1,FEBRUARY,2003,Vintage Cars,Danish Wholesale Imports,Kobenhavn,Denmark,Medium
+10117,26,136,100,3551.34,16/04/03,Shipped,2,APRIL,2003,Vintage Cars,"Dragon Souveniers, Ltd.",Singapore,Singapore,Medium
+10128,41,136,100,5544.02,6/6/2003,Shipped,2,JUNE,2003,Vintage Cars,Euro Shopping Channel,Madrid,Spain,Medium
+10142,47,136,100,6034.33,8/8/2003,Shipped,3,AUGUST,2003,Vintage Cars,Mini Gifts Distributors Ltd.,San Rafael,USA,Medium
+10153,31,136,100,3641.57,28/09/03,Shipped,3,SETPEMBER,2003,Vintage Cars,Euro Shopping Channel,Madrid,Spain,Medium
+10166,43,136,100,6930.74,21/10/03,Shipped,4,OCTOBER,2003,Vintage Cars,FunGiftIdeas.com,New Bedford,USA,Medium
+10177,23,136,100,3675.63,7/11/2003,Shipped,4,NOVEMBER,2003,Vintage Cars,CAF Imports,Madrid,Spain,Medium
+10185,28,136,100,3442.04,14/11/03,Shipped,4,NOVEMBER,2003,Vintage Cars,Mini Creations Ltd.,New Bedford,USA,Medium
+10196,49,136,100,6893.81,26/11/03,Shipped,4,NOVEMBER,2003,Vintage Cars,Super Scale Inc.,New Haven,USA,Medium
+10208,24,136,100,2622.48,2/1/2004,Shipped,1,JANUARY,2004,Vintage Cars,"Saveley & Henriot, Co.",Lyon,France,Small
+10221,33,136,100,4417.38,18/02/04,Shipped,1,FEBRUARY,2004,Vintage Cars,Petit Auto,Bruxelles,Belgium,Medium
+10232,22,136,100,3606.02,20/03/04,Shipped,1,MARCH,2004,Vintage Cars,giftsbymail.co.uk,Cowes,UK,Medium
