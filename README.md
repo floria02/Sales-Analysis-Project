@@ -7,8 +7,10 @@
 
 **Tools used:** Excel | MySQL | PowerBI
 
-Dataset: Questions and Results
 <hr style="border: 1px solid #ddd;">
+
+**DATASET**: Questions and Results
+
 
 **Which products generate the most revenue?**
 
@@ -16,7 +18,7 @@ Dataset: Questions and Results
   <img src="https://i.postimg.cc/YhwKyfQt/Products-Most-Revenue.jpg" alt="Alt text">
 </p>
 
-**Which products are the most cancelled or disputed?**
+**Which products are the most cancelled and/or disputed?**
 <p>
   <img src="https://i.postimg.cc/1fchxnrT/Products-Cancelled-Disputed.jpg" alt="Alt text">
 </p>
