@@ -84,6 +84,7 @@ from salesdata
 group by DEALSIZE
 order by sum(sales) desc;
 ```
+Even though for each large deal the company on avarage has received the highest amount for a single sale , the quantity that was sold was significantly lower compared to small and medium. Medium size was contributed the most to the revenue.
 
 **Result:**
 <p>
