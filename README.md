@@ -90,7 +90,7 @@ order by sum(sales) desc;
   <img src=https://i.postimg.cc/N02YfFfZ/Deal-Size.jpg" alt="Alt text">
 </p>
 
-Even though on average for each large deal the company had a sale higher than the other sizes, the quantity that was sold was significantly lower compared to small and medium. Medium size contributed the most to the revenue because the quantity that was sold was higher.
+Even though on average for each large deal the company had a sale higher than the other sizes, the quantity that was sold was significantly lower compared to small and medium. Medium size contributed the most to the revenue because the quantity that was sold was higher. Large size most likely had a higher price and people were more willing to buy medium sizes. 
 
 •**Do some months usually generate more revenue than others?** 
 ```sql
