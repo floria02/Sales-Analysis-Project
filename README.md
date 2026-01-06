@@ -84,13 +84,13 @@ from salesdata
 group by DEALSIZE
 order by sum(sales) desc;
 ```
-Even though for each large deal the company on avarage has received the highest amount for a single sale , the quantity that was sold was significantly lower compared to small and medium. Medium size was contributed the most to the revenue.
 
 **Result:**
 <p>
   <img src=https://i.postimg.cc/N02YfFfZ/Deal-Size.jpg" alt="Alt text">
 </p>
 
+Even though on average for each large deal the company had a sale higher than the other sizes, the quantity that was sold was significantly lower compared to small and medium. Medium size contributed the most to the revenue because the quantity that was sold was higher.
 
 •**Do some months usually generate more revenue than others?** 
 ```sql
