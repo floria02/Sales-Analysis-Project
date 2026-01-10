@@ -108,3 +108,8 @@ order by year desc,avg(total_revenue) desc;
   <img src="https://i.postimg.cc/RNQ5r6L2/Years-Months-Revenue.jpg" alt="Alt text">
 </p>
 Two particular months in a period of 2 years have shown the most contribution to the revenue. On average October and November show the most generated revenue.
+
+
+<p>
+  <img src=https://ibb.co/RkZQ7d43" alt="Alt text">
+</p>
