@@ -35,7 +35,6 @@ where (o.product like 'C%' or o.product like 'P%')
 and oo.age between 20 and 40 ;
 
 
-
 -- Show the average price in each row of the "referral source" column. 
 SELECT ReferralSource,TotalPrice,ROUND(AVG(totalprice) OVER (partition BY ReferralSource), 2) AS AvgPrice
 FROM orders1;
