@@ -37,12 +37,12 @@ and oo.age between 20 and 40 ;
 
 
 -- Show the average price in each row of the "referral source" column. 
-SELECT ReferralSource,TotalPrice,ROUND(AVG(TotalPrice) OVER (partition BY ReferralSource), 2) AS AvgPrice
+SELECT ReferralSource,TotalPrice,ROUND(AVG(totalprice) OVER (partition BY ReferralSource), 2) AS AvgPrice
 FROM orders1;
 
 
 -- Show the average qantity in each row of the "products" column.
-select product,quantity,round(avg(Quantity) over (partition by Product),1) as AvgQuantity
+select product,quantity,round(avg(quantity) over (partition by Product),1) as AvgQuantity
 from orders1;
 
 
