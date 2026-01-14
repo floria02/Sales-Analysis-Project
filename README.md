@@ -117,6 +117,7 @@ The visualizations that I used are: card,clustered bar chart,stacked area chart,
 **DAX:**           Revenue calculation of shipped and resolved orders                           
                    Lost revenue calculation of cancelled,disputed orders                                      
                    Division for a lost revenue percentage
+                   
                    Count of all orders
 <p>
   <img src="https://i.postimg.cc/HL5QGsPZ/dashboard-Sales.jpg"Alt text">
