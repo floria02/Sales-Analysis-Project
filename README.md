@@ -111,5 +111,5 @@ Two particular months in a period of 2 years have shown the most contribution to
 
 
 <p>
-  <img src=""Alt text">
+  <img src="https://i.postimg.cc/XvgtVxTY/Sales-Drop-New.jpg"Alt text">
 </p>
