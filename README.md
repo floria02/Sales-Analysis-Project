@@ -109,7 +109,10 @@ order by year desc,avg(total_revenue) desc;
 </p>
 Two particular months in a period of 2 years have shown the most contribution to the revenue. On average October and November show the most generated revenue.
 
-
+**Sales analysis dashboard:**
 <p>
   <img src="https://i.postimg.cc/XvgtVxTY/Sales-Drop-New.jpg"Alt text">
 </p>
+
+The total lost revenue amounts to 104.08K, representing a 2.61% of the total revenue of 3.99M. This indicates a relatively low impact on overall revenue. The product lines contributing to the revenue loss are Classic Cars and Motorcycles. Despite this, these product lines generated significant growth of revenue, with 1.87M and 543K respectively, suggesting that currently they do not pose a risk to overall performance.
+Customers placed medium-sized deals likely because of a lower risk and a good value compared to large deals which require higher total spend. But as we can see there is a significant decline in sales in 2005, where total orders dropped from 451 to 168. This decrease is mainly driven by a reduction in medium deal size orders, which fell from 268 to 85 and had previously been the main contributor to revenue.
