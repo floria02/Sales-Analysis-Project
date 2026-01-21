@@ -120,7 +120,7 @@ The visualizations that I used are: card,clustered bar chart,stacked area chart,
                    Count of all orders
                    
 <p>
-  <img src="https://i.postimg.cc/HL5QGsPZ/dashboard-Sales.jpg"Alt text">
+  <img src="https://i.postimg.cc/gJmJm59R/New-Dashboard.jpg"Alt text">
 </p>
 
 The total lost revenue amounts to 104.08K, representing 2.61% of the total revenue of 3.99M. This indicates a relatively low impact on overall revenue. The product lines contributing to the revenue loss are Classic Cars and Motorcycles. Despite this, these product lines generated significant amount of revenue with 1.87M and 543K respectively, suggesting that currently they do not pose a risk to overall performance.
